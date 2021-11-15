@@ -1,0 +1,811 @@
+,ID_GEN,OBJECTID,UBIGEO_DPTO,DEPARTAMENTO,UBIGEO_PROV,PROVINCIA,UBIGEO_DIST,DISTRITO,NOTIF_CORREO_ENV,PTOCRIT_INEXISTENTE,PTOCRIT_EXISTENTE,REALIZO_LIMP,PROGRAMO_LIMP,FECHA_TOMA,HORA_FOTO,DIF_DIA,DIF_HORA,LONGITUD,LATITUD,ESTADO_ALERTA,ENTIDAD_FISC_AMB,TIPO_EFA
+0,1,64370,10,HUANUCO,1001,HUANUCO,100102,AMARILIS,,,,,,24/08/2021,12:24:18,0,3,"-76,20664497","-9,88762596",Alerta no válida,Municipalidad Distrital de Amarilis,Local
+1,2,48067,10,HUANUCO,1001,HUANUCO,100102,AMARILIS,1,,,,,17/06/2021,12:05:21,0,1,"-76,25060703","-9,94228965",Alerta válida,Municipalidad Distrital de Amarilis,Local
+2,3,50007,15,LIMA,1505,CAÑETE,150502,ASIA,,,,,,25/06/2021,17:31:31,0,0,"-76,56814701","-12,80125036",Alerta no válida,Municipalidad Distrital de Asia,Local
+3,4,45797,15,LIMA,1501,LIMA,150106,CARABAYLLO,,,,,,06/06/2021,14:19:06,0,18,"-77,0198205","-11,8805325",Alerta no válida,Municipalidad Distrital de Carabayllo,Local
+4,5,45153,15,LIMA,1501,LIMA,150111,EL AGUSTINO,,,,,,28/05/2021,11:44:28,0,5,"-76,97903155","-12,05493426",Alerta no válida,Municipalidad Distrital de El Agustino,Local
+5,6,78802,1,AMAZONAS,107,UTCUBAMBA,10704,EL MILAGRO,,,,,,29/10/2021,10:11:03,0,2,"-78,561255","-5,63646167",Alerta válida,Municipalidad Distrital de El Milagro,Local
+6,7,63394,9,HUANCAVELICA,903,ANGARAES,90306,CONGALLA,,,,,,20/08/2021,15:42:30,0,1,"-74,49205277","-12,95643269",Alerta no válida,Municipalidad Distrital de Congalla,Local
+7,8,58918,15,LIMA,1505,CAÑETE,150507,IMPERIAL,,,,,,01/08/2021,16:33:52,0,17,"-76,35476802","-13,05827324",Alerta no válida,Municipalidad Distrital de Imperial,Local
+8,9,80070,15,LIMA,1501,LIMA,150117,LOS OLIVOS,,,,,,06/11/2021,17:11:38,1,41,"-77,07075934","-12,00561355",Alerta válida,Municipalidad Distrital de Los Olivos,Local
+9,10,45171,4,AREQUIPA,401,AREQUIPA,40109,MARIANO MELGAR,,,,,,28/05/2021,12:01:22,0,5,"-71,50963732","-16,4066478",Alerta no válida,Municipalidad Distrital de Mariano Melgar,Local
+10,11,55073,22,SAN MARTIN,2209,SAN MARTIN,220910,MORALES,1,,,,,16/07/2021,06:34:21,0,2,"-76,38242207","-6,46809407",Alerta válida,Municipalidad Distrital de Morales,Local
+11,12,73638,22,SAN MARTIN,2209,SAN MARTIN,220910,MORALES,1,,,,,29/09/2021,11:13:15,0,1,"-76,37677987","-6,47118753",Alerta válida,Municipalidad Distrital de Morales,Local
+12,13,56674,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,1,N,,,,24/07/2021,10:05:56,80,1925,"-78,51052088","-9,11470127",Atención ejecutada por Municipalidad,Municipalidad Distrital de Nuevo Chimbote,Local
+13,14,61498,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,1,N,,,,14/08/2021,17:24:01,58,1414,"-78,5138651","-9,1140762",Atención ejecutada por Municipalidad,Municipalidad Distrital de Nuevo Chimbote,Local
+14,15,60849,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,11/08/2021,09:49:05,0,1,"-71,90312443","-13,53293296",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+15,16,69801,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,15/09/2021,12:12:41,0,2,"-71,9029848","-13,5328724",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+16,17,42914,15,LIMA,1501,LIMA,150123,PACHACAMAC,1,S,S,S,S,03/05/2021,14:21:56,8,192,"-76,86020065","-12,22778218",Atención ejecutada por Municipalidad,Municipalidad Distrital de Pachacamac,Local
+17,18,39419,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,N,,,,21/03/2021,12:01:26,1,27,"-77,05101392","-12,07554331",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+18,19,40353,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,S,S,S,,10/04/2021,19:13:07,2,66,"-77,0524487","-12,0819713",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+19,20,51875,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,,,,,02/07/2021,06:33:57,0,2,"-71,478975","-16,409505",Alerta válida,Municipalidad Distrital de Paucarpata,Local
+20,21,50596,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,27/06/2021,15:06:14,129,3117,"-71,5106941","-16,4167917",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+21,22,50917,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,28/06/2021,16:57:23,129,3113,"-71,508895","-16,41964333",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+22,23,45166,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,,,,,,28/05/2021,11:53:16,0,5,"-73,27643056","-3,77962638",Alerta no válida,Municipalidad Distrital de San Juan Bautista,Local
+23,24,45173,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,,,,,,28/05/2021,12:26:53,0,4,"-73,27648295","-3,77909932",Alerta no válida,Municipalidad Distrital de San Juan Bautista,Local
+24,25,46762,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,10/06/2021,10:33:40,0,0,"-73,27695683","-3,77822816",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+25,26,56050,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,21/07/2021,10:15:52,0,13,"-73,26757141","-3,7603758",Atención programada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+26,27,49963,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,25/06/2021,11:11:54,26,636,"-73,27372819","-3,75903612",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+27,28,49968,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,25/06/2021,11:22:29,24,584,"-73,27692645","-3,77291084",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+28,29,72370,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,,,,,24/09/2021,15:02:21,0,2,"-77,0456862","-12,03377806",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+29,30,53154,15,LIMA,1501,LIMA,150131,SAN ISIDRO,1,,,,,06/07/2021,07:52:02,0,1,"-77,03170113","-12,10333881",Alerta válida,Municipalidad Distrital de San Isidro,Local
+30,31,53835,14,LAMBAYEQUE,1401,CHICLAYO,140113,REQUE,1,N,,,,10/07/2021,17:01:59,121,2927,"-79,80068534","-6,8898527",Atención ejecutada por Municipalidad,Municipalidad Distrital de Reque,Local
+31,32,55716,15,LIMA,1501,LIMA,150133,SAN JUAN DE MIRAFLORES,1,S,N,S,S,19/07/2021,17:35:01,15,375,"-76,97433383","-12,1760301",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Miraflores,Local
+32,33,51553,15,LIMA,1501,LIMA,150137,SANTA ANITA,1,,,,,30/06/2021,12:33:35,0,1,"-76,97643199","-12,05424491",Alerta válida,Municipalidad Distrital de Santa Anita,Local
+33,34,73316,12,JUNIN,1208,YAULI,120808,SANTA ROSA DE SACCO,1,S,N,S,S,28/09/2021,17:50:48,36,882,"-75,926755","-11,54165833",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Rosa de Sacco,Local
+34,35,44850,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,18/05/2021,17:05:04,0,16,"-77,11483267","-12,05399614",Alerta válida,Municipalidad Provincial de Callao,Local
+35,36,54119,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,11/07/2021,19:39:15,0,14,"-77,10085333","-12,02374333",Alerta válida,Municipalidad Provincial de Callao,Local
+36,37,57953,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,29/07/2021,06:27:22,1,26,"-77,1008717","-12,0239248",Alerta válida,Municipalidad Provincial de Callao,Local
+37,38,62435,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,17/08/2021,17:52:19,0,0,"-77,1154411","-12,053066",Alerta válida,Municipalidad Provincial de Callao,Local
+38,39,53794,5,AYACUCHO,502,CANGALLO,50201,CANGALLO,1,S,S,S,S,09/07/2021,09:28:55,26,627,"-74,14832933","-13,62835967",Atención ejecutada por Municipalidad,Municipalidad Provincial de Cangallo,Local
+39,40,51887,16,LORETO,1601,MAYNAS,160108,PUNCHANA,1,S,S,N,S,02/07/2021,13:57:27,4,117,"-73,25501976","-3,72016287",Atención programada por Municipalidad,Municipalidad Distrital de Punchana,Local
+40,41,52522,11,ICA,1101,ICA,110112,SUBTANJALLA,1,,,,,04/07/2021,17:04:53,0,16,"-75,75265431","-14,04212031",Alerta válida,Municipalidad Distrital de Subtanjalla,Local
+41,42,50599,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,,,,,,27/06/2021,16:36:33,0,16,"-77,86211112","-6,2352554",Alerta no válida,Municipalidad Provincial de Chachapoyas,Local
+42,43,53832,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,1,,,,,10/07/2021,12:40:14,1,45,"-77,83904353","-6,22013327",Alerta válida,Municipalidad Provincial de Chachapoyas,Local
+43,44,58913,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,01/08/2021,14:23:44,0,19,"-71,9892639","-13,5151871",Alerta válida,Municipalidad Provincial de Cusco,Local
+44,45,49331,10,HUANUCO,1002,AMBO,100201,AMBO,1,N,N,S,N,22/06/2021,08:30:53,3,73,"-76,20410621","-10,12733996",Atención ejecutada por Municipalidad,Municipalidad Provincial de Ambo,Local
+45,46,73641,20,PIURA,2002,AYABACA,200201,AYABACA,,,,,,29/09/2021,18:21:18,0,17,"-79,7135007","-4,63605505",Alerta no válida,Municipalidad Provincial de Ayabaca,Local
+46,47,51578,6,CAJAMARCA,602,CAJABAMBA,60201,CAJABAMBA,,,,,,01/07/2021,16:29:46,0,2,"-78,0435213","-7,6216121",Alerta no válida,Municipalidad Provincial de Cajabamba,Local
+47,48,57636,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,N,S,S,28/07/2021,20:05:39,19,476,"-76,98746478","-11,93245574",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+48,49,63073,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,S,S,,19/08/2021,09:54:11,12,310,"-76,9875952","-11,93248136",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+49,50,41633,7,CALLAO,701,CALLAO,70104,LA PERLA,1,N,N,S,S,26/04/2021,09:56:50,5,131,"-77,1300001","-12,0697007",Atención ejecutada por Municipalidad,Municipalidad Distrital de La Perla,Local
+50,51,42913,15,LIMA,1501,LIMA,150116,LINCE,1,N,,,,03/05/2021,14:15:26,0,2,"-77,04425143","-12,0838572",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lince,Local
+51,52,55395,15,LIMA,1501,LIMA,150103,ATE,,,,,,18/07/2021,09:26:18,0,23,"-76,940673","-12,0302291",Alerta no válida,Municipalidad Distrital de Ate,Local
+52,53,75233,15,LIMA,1501,LIMA,150103,ATE,,,,,,11/10/2021,07:14:45,1,26,"-76,82097833","-12,016895",Alerta no válida,Municipalidad Distrital de Ate,Local
+53,54,50273,15,LIMA,1501,LIMA,150103,ATE,1,,,,,26/06/2021,08:48:52,1,48,"-76,9406863","-12,0302224",Alerta válida,Municipalidad Distrital de Ate,Local
+54,55,53803,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,1,,,,,09/07/2021,11:12:55,0,1,"-76,93795299","-12,19399435",Alerta válida,Municipalidad Distrital de Villa El Salvador,Local
+55,56,61474,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,1,,,,,13/08/2021,15:42:02,0,1,"-76,9400966","-12,2050658",Alerta válida,Municipalidad Distrital de Villa El Salvador,Local
+56,57,67557,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,N,S,S,08/09/2021,11:58:47,34,817,"-78,52318182","-6,68148015",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+57,58,67560,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,N,S,S,08/09/2021,12:06:13,34,817,"-78,52313329","-6,68035883",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+58,59,74917,5,AYACUCHO,501,HUAMANGA,50101,AYACUCHO,1,,,,,10/10/2021,16:50:00,1,41,"-74,218745","-13,15792167",Alerta válida,Municipalidad Provincial de Huamanga,Local
+59,60,54771,5,AYACUCHO,501,HUAMANGA,50101,AYACUCHO,1,N,S,N,S,15/07/2021,10:23:28,120,2882,"-74,22994089","-13,15198478",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huamanga,Local
+60,61,49641,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,,S,N,N,N,24/06/2021,18:48:51,115,2781,"-74,9772272","-12,7890166",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huancavelica,Local
+61,62,49642,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,1,N,,,,24/06/2021,20:19:49,115,2779,"-74,96981899","-12,78818995",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huancavelica,Local
+62,63,49994,2,ANCASH,211,HUARMEY,21101,HUARMEY,,,,,,25/06/2021,15:51:49,0,2,"-78,15119887","-10,06811808",Alerta no válida,Municipalidad Provincial de Huarmey,Local
+63,64,74913,21,PUNO,2111,SAN ROMAN,211101,JULIACA,1,S,N,S,S,10/10/2021,10:05:40,19,456,"-70,1237477","-15,51938284",Atención ejecutada por Municipalidad,Municipalidad Provincial de San Roman,Local
+64,65,49635,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,24/06/2021,10:49:37,0,1,"-74,8681711","-12,39925",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+65,66,50002,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,25/06/2021,16:17:17,0,2,"-74,862977","-12,3972456",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+66,67,50004,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,25/06/2021,16:18:34,0,1,"-74,862948","-12,3972813",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+67,68,55400,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,18/07/2021,15:35:01,0,17,"-79,04771797","-8,09086934",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+68,69,68196,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,10:06:47,0,2,"-79,0412189","-8,108752",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+69,70,69161,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,13/09/2021,12:01:21,0,0,"-79,0048865","-8,0954865",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+70,71,69797,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,15/09/2021,08:07:14,0,0,"-79,0411884","-8,1086862",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+71,72,69798,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,15/09/2021,08:08:09,0,0,"-79,0411717","-8,108786",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+72,73,70113,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,16/09/2021,08:12:18,0,0,"-79,01241476","-8,08916357",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+73,74,71076,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,20/09/2021,10:28:13,0,1,"-79,00500189","-8,0955621",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+74,75,71077,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,20/09/2021,10:30:24,0,1,"-79,00513432","-8,09542996",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+75,76,71090,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,21/09/2021,07:20:09,0,1,"-79,043685","-8,0993304",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+76,77,60514,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,09/08/2021,14:12:00,0,2,"-79,02219256","-8,0906425",Alerta válida,Municipalidad Provincial de Trujillo,Local
+77,78,72995,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,27/09/2021,07:26:24,0,2,"-79,02465619","-8,09314807",Alerta válida,Municipalidad Provincial de Trujillo,Local
+78,79,41322,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,19/04/2021,11:19:29,2,48,"-76,97681182","-12,14057093",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+79,80,41953,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,28/04/2021,12:17:07,0,0,"-76,99559284","-12,12911273",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+80,81,54754,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,14/07/2021,15:22:30,0,2,"-77,0128871","-12,1395283",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+81,82,53809,15,LIMA,1501,LIMA,150125,PUENTE PIEDRA,1,,,,,09/07/2021,15:17:53,0,0,"-77,0839415","-11,85335398",Alerta válida,Municipalidad Distrital de Puente Piedra,Local
+82,83,51556,12,JUNIN,1203,CHANCHAMAYO,120302,PERENE,1,S,N,S,S,30/06/2021,19:24:05,104,2509,"-74,88049903","-10,9214621",Atención ejecutada por Municipalidad,Municipalidad Distrital de Perene,Local
+83,84,49636,10,HUANUCO,1010,LAURICOCHA,101001,JESUS,1,S,N,N,S,24/06/2021,10:52:03,104,2518,"-76,63200304","-10,07391546",Atención programada por Municipalidad,Municipalidad Provincial de Lauricocha,Local
+84,85,49634,10,HUANUCO,1010,LAURICOCHA,101001,JESUS,1,N,S,N,S,24/06/2021,10:41:53,104,2518,"-76,63101549","-10,07186658",Atención ejecutada por Municipalidad,Municipalidad Provincial de Lauricocha,Local
+85,86,55394,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,18/07/2021,08:06:02,1,24,"-77,07725892","-12,06079923",Alerta válida,Municipalidad Provincial de Lima,Local
+86,87,49982,21,PUNO,2108,MELGAR,210801,AYAVIRI,,,,,,25/06/2021,15:44:33,0,2,"-70,58915682","-14,88156576",Alerta no válida,Municipalidad Provincial de Melgar,Local
+87,88,46436,10,HUANUCO,1008,PACHITEA,100801,PANAO,,,,,,09/06/2021,16:22:06,0,1,"-75,9949502","-9,89575421",Alerta no válida,Municipalidad Provincial de Pachitea,Local
+88,89,73314,11,ICA,1102,CHINCHA,110201,CHINCHA ALTA,,,,,,28/09/2021,12:05:04,0,1,"-76,1351248","-13,4083817",Alerta no válida,Municipalidad Provincial de Chincha,Local
+89,90,72353,11,ICA,1102,CHINCHA,110201,CHINCHA ALTA,1,,,,,23/09/2021,12:08:36,0,1,"-76,13102811","-13,44008901",Alerta válida,Municipalidad Provincial de Chincha,Local
+90,91,59254,19,PASCO,1901,PASCO,190101,CHAUPIMARCA,,,,,,04/08/2021,17:14:28,0,1,"-76,2572227","-10,6861415",Alerta no válida,Municipalidad Provincial de Pasco,Local
+91,92,67567,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,1,,,,,08/09/2021,16:11:03,0,18,"-79,0012647","-8,078455",Alerta válida,Municipalidad Distrital de El Porvenir,Local
+92,93,79763,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,,,,,,03/11/2021,18:33:05,0,15,"-79,001649","-8,078157",Alerta válida,Municipalidad Distrital de El Porvenir,Local
+93,94,59555,15,LIMA,1501,LIMA,150122,MIRAFLORES,,,,,,05/08/2021,13:21:22,0,2,"-77,0329183","-12,1135667",Alerta no válida,Municipalidad Distrital de Miraflores,Local
+94,95,48353,2,ANCASH,220,YUNGAY,22001,YUNGAY,,,,,,18/06/2021,06:40:01,0,4,"-77,74359826","-9,13757119",Alerta no válida,Municipalidad Provincial de Yungay,Local
+95,96,64355,21,PUNO,2104,CHUCUITO,210403,HUACULLANI,,,,,,23/08/2021,13:46:08,0,1,"-69,32179364","-16,63045734",Alerta no válida,Municipalidad Distrital de Huacullani,Local
+96,97,54132,11,ICA,1101,ICA,110101,ICA,,,,,,12/07/2021,09:22:59,0,0,"-75,7274802","-14,06748432",Alerta no válida,Municipalidad Provincial de Ica,Local
+97,98,79778,11,ICA,1101,ICA,110101,ICA,,,,,,04/11/2021,06:32:09,0,3,"-75,73657978","-14,07364529",Alerta válida,Municipalidad Provincial de Ica,Local
+98,99,80722,11,ICA,1101,ICA,110101,ICA,,,,,,11/11/2021,06:31:40,0,2,"-75,7305984","-14,06909306",Alerta válida,Municipalidad Provincial de Ica,Local
+99,100,79426,5,AYACUCHO,501,HUAMANGA,50110,SAN JUAN BAUTISTA,,,,,,01/11/2021,10:56:12,1,47,"-74,22102989","-13,16855933",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+100,101,57954,5,AYACUCHO,501,HUAMANGA,50110,SAN JUAN BAUTISTA,1,N,S,S,S,29/07/2021,12:46:53,41,984,"-74,22151797","-13,16695272",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+101,102,47073,4,AREQUIPA,401,AREQUIPA,40103,CAYMA,1,S,S,S,,11/06/2021,12:17:19,0,0,"-71,54422308","-16,36284956",Atención ejecutada por Municipalidad,Municipalidad Distrital de Cayma,Local
+102,103,49991,15,LIMA,1501,LIMA,150128,RIMAC,,,,,,25/06/2021,15:47:11,0,2,"-77,02967517","-12,0301052",Alerta no válida,Municipalidad Distrital de Rimac,Local
+103,104,55079,8,CUSCO,801,CUSCO,80105,SAN SEBASTIAN,1,,,,,16/07/2021,16:28:22,0,0,"-71,9546759","-13,5396608",Alerta válida,Municipalidad Distrital de San Sebastian,Local
+104,105,50008,10,HUANUCO,1006,LEONCIO PRADO,100608,CASTILLO GRANDE,1,S,N,S,S,25/06/2021,17:57:56,17,428,"-76,00832531","-9,28988953",Atención ejecutada por Municipalidad,Municipalidad Distrital de Castillo Grande,Local
+105,106,49998,7,CALLAO,701,CALLAO,70102,BELLAVISTA,,,,,,25/06/2021,15:57:10,0,2,"-77,12281919","-12,05878552",Alerta no válida,Municipalidad Distrital de Bellavista,Local
+106,107,45794,15,LIMA,1501,LIMA,150106,CARABAYLLO,,,,,,06/06/2021,13:52:59,0,18,"-77,01987779","-11,8807539",Alerta no válida,Municipalidad Distrital de Carabayllo,Local
+107,108,45796,15,LIMA,1501,LIMA,150106,CARABAYLLO,,,,,,06/06/2021,14:03:09,0,18,"-77,01982505","-11,88056867",Alerta no válida,Municipalidad Distrital de Carabayllo,Local
+108,109,78805,1,AMAZONAS,107,UTCUBAMBA,10704,EL MILAGRO,,,,,,29/10/2021,16:22:46,0,0,"-78,56123904","-5,63645055",Alerta pendiente validación,Municipalidad Distrital de El Milagro,Local
+109,110,57318,15,LIMA,1501,LIMA,150119,LURIN,,,,,,27/07/2021,20:37:03,2,60,"-76,8677514","-12,2768217",Alerta no válida,Municipalidad Distrital de Lurin,Local
+110,111,54777,15,LIMA,1501,LIMA,150119,LURIN,1,,,,,15/07/2021,20:02:38,0,12,"-76,8683299","-12,2766395",Alerta válida,Municipalidad Distrital de Lurin,Local
+111,112,55074,22,SAN MARTIN,2209,SAN MARTIN,220910,MORALES,1,,,,,16/07/2021,07:03:05,0,1,"-76,39252286","-6,47296762",Alerta válida,Municipalidad Distrital de Morales,Local
+112,113,44838,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,,,,,,18/05/2021,15:53:33,0,6,"-78,5144152","-9,1307652",Alerta no válida,Municipalidad Distrital de Nuevo Chimbote,Local
+113,114,67873,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,09/09/2021,20:29:58,0,16,"-71,9030087","-13,5329022",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+114,115,41649,15,LIMA,1501,LIMA,150123,PACHACAMAC,1,S,N,S,S,27/04/2021,11:04:50,1,24,"-76,8599424","-12,22778742",Atención ejecutada por Municipalidad,Municipalidad Distrital de Pachacamac,Local
+115,116,42917,15,LIMA,1501,LIMA,150123,PACHACAMAC,1,S,S,S,S,03/05/2021,14:50:51,8,192,"-76,86013163","-12,23055347",Atención ejecutada por Municipalidad,Municipalidad Distrital de Pachacamac,Local
+116,117,39073,15,LIMA,1501,LIMA,150113,JESUS MARIA,,,,,,17/03/2021,20:48:25,0,12,"-77,04960787","-12,08588005",Alerta no válida,Municipalidad Distrital de Jesus Maria,Local
+117,118,39418,15,LIMA,1501,LIMA,150113,JESUS MARIA,,,,,,21/03/2021,11:57:37,0,23,"-77,05097909","-12,07562903",Alerta no válida,Municipalidad Distrital de Jesus Maria,Local
+118,119,39420,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,N,,,,21/03/2021,12:06:05,1,27,"-77,05080567","-12,07554513",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+119,120,44848,15,LIMA,1501,LIMA,150113,JESUS MARIA,,N,,,,18/05/2021,16:46:32,12,304,"-77,0576104","-12,08105616",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+120,121,46756,4,AREQUIPA,401,AREQUIPA,40129,JOSE LUIS BUSTAMANTE Y RIVERO,,,,,,10/06/2021,10:16:14,0,0,"-71,52411702","-16,43167751",Alerta no válida,Municipalidad Distrital de Jose Luis Bustamante Y Rivero,Local
+121,122,52837,4,AREQUIPA,401,AREQUIPA,40129,JOSE LUIS BUSTAMANTE Y RIVERO,1,S,S,S,,05/07/2021,10:07:24,1,26,"-71,52807249","-16,43391448",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jose Luis Bustamante Y Rivero,Local
+122,123,54434,4,AREQUIPA,401,AREQUIPA,40129,JOSE LUIS BUSTAMANTE Y RIVERO,1,S,S,S,,13/07/2021,09:40:24,114,2741,"-71,52827","-16,43410333",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jose Luis Bustamante Y Rivero,Local
+123,124,50594,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,27/06/2021,14:55:45,130,3140,"-71,50627667","-16,416415",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+124,125,50597,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,27/06/2021,15:12:23,129,3117,"-71,51330667","-16,41589167",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+125,126,50598,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,27/06/2021,15:16:44,129,3117,"-71,5152034","-16,415638",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+126,127,51874,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,02/07/2021,06:33:07,126,3027,"-71,4789814","-16,4098656",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+127,128,46760,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,10/06/2021,10:30:00,0,0,"-73,28312798","-3,7816982",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+128,129,46113,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,,S,S,S,S,08/06/2021,10:49:11,2,48,"-73,26964243","-3,76087876",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+129,130,46759,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,10/06/2021,10:22:31,41,997,"-73,2891472","-3,78527668",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+130,131,49960,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,25/06/2021,11:04:08,19,467,"-73,26918654","-3,75962948",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+131,132,49969,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,25/06/2021,11:24:44,24,584,"-73,27769717","-3,77516462",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+132,133,49970,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,,N,,,,25/06/2021,11:25:32,24,584,"-73,27764884","-3,77543334",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+133,134,48033,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,15/06/2021,09:02:22,0,1,"-77,0866561","-12,0093612",Alerta no válida,Municipalidad Distrital de San Martin de Porres,Local
+134,135,44194,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,,,,,13/05/2021,15:03:35,0,0,"-77,09086833","-12,036925",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+135,136,52518,14,LAMBAYEQUE,1401,CHICLAYO,140113,REQUE,1,S,N,S,S,04/07/2021,10:08:58,128,3078,"-79,79383438","-6,89185072",Atención ejecutada por Municipalidad,Municipalidad Distrital de Reque,Local
+136,137,51891,15,LIMA,1501,LIMA,150137,SANTA ANITA,,,,,,02/07/2021,15:42:17,0,2,"-76,97635351","-12,05411849",Alerta no válida,Municipalidad Distrital de Santa Anita,Local
+137,138,54755,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,14/07/2021,18:56:54,0,14,"-77,10091833","-12,023715",Alerta válida,Municipalidad Provincial de Callao,Local
+138,139,55714,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,19/07/2021,11:43:06,0,1,"-77,1009336","-12,0238154",Alerta válida,Municipalidad Provincial de Callao,Local
+139,140,56066,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,22/07/2021,14:22:08,0,0,"-77,100965","-12,02368833",Alerta válida,Municipalidad Provincial de Callao,Local
+140,141,81346,5,AYACUCHO,502,CANGALLO,50201,CANGALLO,,,,,,14/11/2021,08:40:49,0,0,"-74,14807871","-13,61375458",Alerta pendiente validación,Municipalidad Provincial de Cangallo,Local
+141,142,51892,12,JUNIN,1201,HUANCAYO,120133,SAPALLANGA,1,,,,,02/07/2021,16:55:52,0,1,"-75,15480702","-12,1340579",Alerta válida,Municipalidad Distrital de Sapallanga,Local
+142,143,58919,12,JUNIN,1201,HUANCAYO,120133,SAPALLANGA,1,,,,,01/08/2021,16:57:56,0,16,"-75,15420538","-12,13433587",Alerta válida,Municipalidad Distrital de Sapallanga,Local
+143,144,60833,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,,,,,,10/08/2021,09:04:37,0,2,"-77,8712954","-6,22077683",Alerta válida,Municipalidad Provincial de Chachapoyas,Local
+144,145,44847,14,LAMBAYEQUE,1401,CHICLAYO,140101,CHICLAYO,,,,,,18/05/2021,16:11:28,0,6,"-79,85598466","-6,7646999",Alerta no válida,Municipalidad Provincial de Chiclayo,Local
+145,146,54115,21,PUNO,2104,CHUCUITO,210401,JULI,,,,,,11/07/2021,10:20:35,0,24,"-69,46296172","-16,2055129",Alerta no válida,Municipalidad Provincial de Chucuito,Local
+146,147,49332,10,HUANUCO,1002,AMBO,100201,AMBO,1,N,,,,22/06/2021,08:31:13,3,73,"-76,20293424","-10,12968337",Atención ejecutada por Municipalidad,Municipalidad Provincial de Ambo,Local
+147,148,45156,3,APURIMAC,302,ANDAHUAYLAS,30201,ANDAHUAYLAS,,,,,,28/05/2021,11:44:04,0,5,"-73,3897402","-13,6559279",Alerta no válida,Municipalidad Provincial de Andahuaylas,Local
+148,149,45162,15,LIMA,1502,BARRANCA,150201,BARRANCA,,,,,,28/05/2021,11:48:12,0,5,"-77,75608073","-10,75538537",Alerta no válida,Municipalidad Provincial de Barranca,Local
+149,150,45163,15,LIMA,1502,BARRANCA,150201,BARRANCA,,,,,,28/05/2021,11:50:03,0,5,"-77,75630938","-10,75486735",Alerta no válida,Municipalidad Provincial de Barranca,Local
+150,151,52195,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,S,S,,03/07/2021,12:42:23,10,259,"-76,99034213","-11,96947291",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+151,152,72690,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,N,,,,26/09/2021,17:20:31,4,119,"-77,0022743","-11,9792433",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+152,153,41657,15,LIMA,1501,LIMA,150116,LINCE,1,N,,,,27/04/2021,14:53:47,0,18,"-77,04053699","-12,08585277",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lince,Local
+153,154,42918,15,LIMA,1501,LIMA,150116,LINCE,1,N,,,,03/05/2021,15:33:40,0,3,"-77,03936705","-12,0813136",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lince,Local
+154,155,75553,15,LIMA,1501,LIMA,150103,ATE,,,,,,12/10/2021,14:20:25,0,1,"-76,92425332","-12,03928042",Alerta no válida,Municipalidad Distrital de Ate,Local
+155,156,53802,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,1,,,,,09/07/2021,10:55:07,0,0,"-76,94167067","-12,18912763",Alerta válida,Municipalidad Distrital de Villa El Salvador,Local
+156,157,44515,15,LIMA,1501,LIMA,150143,VILLA MARIA DEL TRIUNFO,1,N,,,,14/05/2021,17:06:54,2,63,"-76,95823965","-12,15797587",Atención ejecutada por Municipalidad,Municipalidad Distrital de Villa Maria del Triunfo,Local
+157,158,64371,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,N,S,S,24/08/2021,12:35:05,27,651,"-78,51879075","-6,67975956",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+158,159,66594,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,S,03/09/2021,15:58:30,16,407,"-78,51981942","-6,67853322",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+159,160,67562,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,,08/09/2021,12:10:34,12,291,"-78,52339654","-6,68000841",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+160,161,58916,5,AYACUCHO,501,HUAMANGA,50101,AYACUCHO,,,,,,01/08/2021,15:12:18,0,18,"-74,2299269","-13,15198861",Alerta no válida,Municipalidad Provincial de Huamanga,Local
+161,162,60193,15,LIMA,1508,HUAURA,150801,HUACHO,1,,,,,08/08/2021,13:55:50,0,21,"-77,5997596","-11,1293922",Alerta válida,Municipalidad Provincial de Huaura,Local
+162,163,53807,6,CAJAMARCA,608,JAEN,60801,JAEN,,,,,,09/07/2021,12:15:08,0,1,"-78,8057058","-5,7131249",Alerta no válida,Municipalidad Provincial de Jaen,Local
+163,164,59556,23,TACNA,2301,TACNA,230101,TACNA,1,N,N,S,S,05/08/2021,15:57:22,90,2181,"-70,23604192","-17,99275854",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tacna,Local
+164,165,49959,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,25/06/2021,10:57:27,0,1,"-74,86820943","-12,39926273",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+165,166,49976,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,25/06/2021,12:30:06,0,0,"-74,86362167","-12,39797167",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+166,167,50913,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,28/06/2021,11:05:57,0,1,"-74,8640592","-12,3979253",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+167,168,68201,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,10:46:29,0,2,"-79,0463783","-8,1195616",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+168,169,68202,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,10:48:29,0,2,"-79,0467899","-8,1198562",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+169,170,68204,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,11:21:14,0,1,"-79,0476246","-8,1099815",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+170,171,68205,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,11:28:14,0,1,"-79,0475248","-8,1106763",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+171,172,69156,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,13/09/2021,10:36:09,0,2,"-79,0146018","-8,1068956",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+172,173,71091,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,21/09/2021,07:21:12,0,1,"-79,0435871","-8,0993863",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+173,174,73002,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,27/09/2021,10:24:20,0,7,"-79,0462029","-8,1193711",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+174,175,70436,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,18/09/2021,18:43:14,1,38,"-79,02035808","-8,11349979",Alerta válida,Municipalidad Provincial de Trujillo,Local
+175,176,70439,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,18/09/2021,18:47:03,1,38,"-79,01927769","-8,11220169",Alerta válida,Municipalidad Provincial de Trujillo,Local
+176,177,72994,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,27/09/2021,07:15:25,0,3,"-79,02470858","-8,09331747",Alerta válida,Municipalidad Provincial de Trujillo,Local
+177,178,73001,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,27/09/2021,10:20:02,0,7,"-79,04678458","-8,11932798",Alerta válida,Municipalidad Provincial de Trujillo,Local
+178,179,73636,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,29/09/2021,10:23:43,0,2,"-79,0256275","-8,1251511",Alerta válida,Municipalidad Provincial de Trujillo,Local
+179,180,41637,15,LIMA,1501,LIMA,150120,MAGDALENA DEL MAR,,,,,,26/04/2021,16:39:09,0,0,"-77,0620401","-12,08847589",Alerta no válida,Municipalidad Distrital de Magdalena del Mar,Local
+180,181,41665,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,28/04/2021,10:42:16,0,1,"-76,99533671","-12,12910831",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+181,182,45793,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,06/06/2021,13:45:52,0,19,"-76,99556233","-12,12909807",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+182,183,77153,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,19/10/2021,20:11:08,0,0,"-76,9953688","-12,12985261",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+183,184,54437,24,TUMBES,2402,CONTRALMIRANTE VILLAR,240201,ZORRITOS,1,,,,,13/07/2021,15:04:12,0,1,"-80,657315","-3,669505",Alerta válida,Municipalidad Provincial de Contralmirante Villar,Local
+184,185,45157,14,LAMBAYEQUE,1401,CHICLAYO,140106,LA VICTORIA,,,,,,28/05/2021,11:46:56,0,5,"-79,84393728","-6,79442284",Alerta no válida,Municipalidad Distrital de La Victoria,Local
+185,186,45167,14,LAMBAYEQUE,1401,CHICLAYO,140106,LA VICTORIA,,,,,,28/05/2021,11:53:29,0,5,"-79,84569102","-6,79477293",Alerta no válida,Municipalidad Distrital de La Victoria,Local
+186,187,51571,15,LIMA,1501,LIMA,150118,LURIGANCHO,,,,,,01/07/2021,12:50:37,0,0,"-76,69405691","-11,93775092",Alerta no válida,Municipalidad Distrital de Lurigancho,Local
+187,188,45177,7,CALLAO,701,CALLAO,70106,VENTANILLA,,,,,,28/05/2021,12:49:27,0,4,"-77,12506441","-11,8604966",Alerta no válida,Municipalidad Distrital de Ventanilla,Local
+188,189,44836,4,AREQUIPA,401,AREQUIPA,40101,AREQUIPA,,,,,,18/05/2021,15:49:00,0,6,"-71,53654354","-16,41709173",Alerta no válida,Municipalidad Provincial de Arequipa,Local
+189,190,49999,4,AREQUIPA,401,AREQUIPA,40101,AREQUIPA,,,,,,25/06/2021,15:58:39,0,2,"-71,5339022","-16,3910073",Alerta no válida,Municipalidad Provincial de Arequipa,Local
+190,191,46766,4,AREQUIPA,401,AREQUIPA,40101,AREQUIPA,,S,N,S,S,10/06/2021,14:45:51,0,1,"-71,51988365","-16,40345609",Atención ejecutada por Municipalidad,Municipalidad Provincial de Arequipa,Local
+191,192,48994,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,20/06/2021,08:50:01,0,24,"-77,07924197","-12,05924596",Alerta válida,Municipalidad Provincial de Lima,Local
+192,193,59252,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,04/08/2021,13:51:39,0,4,"-77,05894254","-12,05304015",Alerta válida,Municipalidad Provincial de Lima,Local
+193,194,65633,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,30/08/2021,12:13:42,0,22,"-77,03469541","-12,04164175",Alerta válida,Municipalidad Provincial de Lima,Local
+194,195,65649,19,PASCO,1903,OXAPAMPA,190301,OXAPAMPA,1,S,N,S,S,31/08/2021,09:33:43,2,53,"-75,407835","-10,57276167",Atención ejecutada por Municipalidad,Municipalidad Provincial de Oxapampa,Local
+195,196,46755,10,HUANUCO,1008,PACHITEA,100801,PANAO,,,,,,10/06/2021,10:15:54,0,0,"-75,9940073","-9,8974037",Alerta no válida,Municipalidad Provincial de Pachitea,Local
+196,197,49313,10,HUANUCO,1008,PACHITEA,100801,PANAO,,,,,,21/06/2021,16:43:10,0,1,"-75,99128531","-9,89825325",Alerta no válida,Municipalidad Provincial de Pachitea,Local
+197,198,66593,19,PASCO,1901,PASCO,190101,CHAUPIMARCA,1,S,N,S,S,03/09/2021,11:01:50,17,431,"-76,2556867","-10,6908387",Atención ejecutada por Municipalidad,Municipalidad Provincial de Pasco,Local
+198,199,44845,10,HUANUCO,1001,HUANUCO,100101,HUANUCO,,,,,,18/05/2021,16:04:08,0,6,"-76,23463599","-9,91940902",Alerta no válida,Municipalidad Provincial de Huanuco,Local
+199,200,81028,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,,,,,,12/11/2021,20:46:02,0,0,"-79,00168792","-8,07809779",Alerta pendiente validación,Municipalidad Distrital de El Porvenir,Local
+200,201,51569,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,,,,,,01/07/2021,09:36:16,0,1,"-79,01138695","-8,0612356",Alerta no válida,Municipalidad Distrital de El Porvenir,Local
+201,202,69474,5,AYACUCHO,509,SUCRE,50903,CHALCOS,,,,,,14/09/2021,09:49:48,0,0,"-73,74261865","-13,85907547",Alerta no válida,Municipalidad Distrital de Chalcos,Local
+202,203,64353,5,AYACUCHO,509,SUCRE,50903,CHALCOS,,S,S,S,,23/08/2021,07:39:27,79,1903,"-73,75389603","-13,8480686",Atención ejecutada por Municipalidad,Municipalidad Distrital de Chalcos,Local
+203,204,69153,15,LIMA,1501,LIMA,150122,MIRAFLORES,1,,,,,13/09/2021,07:10:48,0,1,"-77,0304199","-12,1098801",Alerta válida,Municipalidad Distrital de Miraflores,Local
+204,205,62115,12,JUNIN,1207,TARMA,120701,TARMA,1,S,S,S,,16/08/2021,23:47:06,1,44,"-75,68676372","-11,4201856",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tarma,Local
+205,206,55396,22,SAN MARTIN,2209,SAN MARTIN,220901,TARAPOTO,,,,,,18/07/2021,11:03:58,0,21,"-76,3666108","-6,4880746",Alerta no válida,Municipalidad Provincial de San Martin,Local
+206,207,53795,9,HUANCAVELICA,904,CASTROVIRREYNA,90401,CASTROVIRREYNA,1,S,S,S,S,09/07/2021,09:34:48,59,1419,"-75,31757251","-13,28259325",Atención ejecutada por Municipalidad,Municipalidad Provincial de Castrovirreyna,Local
+207,208,53796,9,HUANCAVELICA,904,CASTROVIRREYNA,90401,CASTROVIRREYNA,1,S,S,S,,09/07/2021,09:36:04,59,1419,"-75,31757377","-13,28261005",Atención ejecutada por Municipalidad,Municipalidad Provincial de Castrovirreyna,Local
+208,209,51570,17,MADRE DE DIOS,1701,TAMBOPATA,170101,TAMBOPATA,1,N,,,,01/07/2021,12:35:27,117,2832,"-69,20102333","-12,60237",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tambopata,Local
+209,210,48354,2,ANCASH,220,YUNGAY,22001,YUNGAY,1,S,S,S,,18/06/2021,06:51:42,145,3486,"-77,74368885","-9,13758705",Atención ejecutada por Municipalidad,Municipalidad Provincial de Yungay,Local
+210,211,64673,21,PUNO,2104,CHUCUITO,210403,HUACULLANI,,,,,,25/08/2021,08:11:44,0,0,"-69,321912","-16,6306813",Alerta no válida,Municipalidad Distrital de Huacullani,Local
+211,212,70114,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,16/09/2021,14:53:34,0,0,"-76,15379104","-13,40971692",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+212,213,71715,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,22/09/2021,19:18:08,0,13,"-76,1491041","-13,41226539",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+213,214,78466,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,,,,,,26/10/2021,10:54:09,0,0,"-76,15478118","-13,40882567",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+214,215,71073,11,ICA,1101,ICA,110101,ICA,1,,,,,20/09/2021,06:35:58,0,2,"-75,7332212","-14,06122189",Alerta válida,Municipalidad Provincial de Ica,Local
+215,216,61501,16,LORETO,1601,MAYNAS,160112,BELEN,,,,,,14/08/2021,18:50:54,1,38,"-73,24697659","-3,7619044",Alerta no válida,Municipalidad Distrital de Belen,Local
+216,217,45164,10,HUANUCO,1001,HUANUCO,100102,AMARILIS,,,,,,28/05/2021,11:52:30,0,5,"-76,24088223","-9,9369689",Alerta no válida,Municipalidad Distrital de Amarilis,Local
+217,218,79762,15,LIMA,1501,LIMA,150102,ANCON,,,,,,03/11/2021,10:13:58,0,0,"-77,13717554","-11,81360319",Alerta válida,Municipalidad Distrital de Ancon,Local
+218,219,44865,7,CALLAO,701,CALLAO,70102,BELLAVISTA,,,,,,19/05/2021,15:44:21,0,0,"-77,12374629","-12,05894018",Alerta no válida,Municipalidad Distrital de Bellavista,Local
+219,220,44834,12,JUNIN,1201,HUANCAYO,120114,EL TAMBO,,,,,,18/05/2021,15:47:45,0,6,"-75,2159662","-12,0605758",Alerta no válida,Municipalidad Distrital de El Tambo,Local
+220,221,64358,12,JUNIN,1201,HUANCAYO,120114,EL TAMBO,,,,,,23/08/2021,15:11:52,0,0,"-75,22042263","-12,03308709",Alerta no válida,Municipalidad Distrital de El Tambo,Local
+221,222,52833,15,LIMA,1505,CAÑETE,150507,IMPERIAL,,,,,,05/07/2021,06:19:49,0,3,"-76,3483408","-13,0541746",Alerta no válida,Municipalidad Distrital de Imperial,Local
+222,223,52515,22,SAN MARTIN,2209,SAN MARTIN,220910,MORALES,1,,,,,04/07/2021,07:37:26,1,25,"-76,38526607","-6,46373053",Alerta válida,Municipalidad Distrital de Morales,Local
+223,224,80386,12,JUNIN,1202,CONCEPCION,120213,ORCOTUNA,,,,,,07/11/2021,12:41:00,0,21,"-75,300277","-11,96205567",Alerta no válida,Municipalidad Distrital de Orcotuna,Local
+224,225,44835,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,,,,,,18/05/2021,15:48:13,0,6,"-71,90161523","-13,53346044",Alerta no válida,Municipalidad Distrital de San Jeronimo,Local
+225,226,74289,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,05/10/2021,10:46:51,0,1,"-71,90369949","-13,53472386",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+226,227,41652,15,LIMA,1501,LIMA,150123,PACHACAMAC,,,,,,27/04/2021,11:38:31,0,0,"-76,8605466","-12,2289559",Alerta no válida,Municipalidad Distrital de Pachacamac,Local
+227,228,39410,15,LIMA,1501,LIMA,150113,JESUS MARIA,,,,,,21/03/2021,11:10:44,0,24,"-77,04781158","-12,07915077",Alerta no válida,Municipalidad Distrital de Jesus Maria,Local
+228,229,70117,15,LIMA,1501,LIMA,150113,JESUS MARIA,,,,,,16/09/2021,18:36:29,0,14,"-77,04207724","-12,07751504",Alerta no válida,Municipalidad Distrital de Jesus Maria,Local
+229,230,39417,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,S,N,S,N,21/03/2021,11:54:03,1,27,"-77,05094334","-12,07531595",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+230,231,40675,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,N,S,S,,15/04/2021,17:02:49,0,14,"-77,05763204","-12,08107464",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+231,232,44841,14,LAMBAYEQUE,1401,CHICLAYO,140105,JOSE LEONARDO ORTIZ,,,,,,18/05/2021,15:55:24,0,6,"-79,8324226","-6,74492851",Alerta no válida,Municipalidad Distrital de Jose Leonardo Ortiz,Local
+232,233,62113,4,AREQUIPA,401,AREQUIPA,40129,JOSE LUIS BUSTAMANTE Y RIVERO,1,S,S,S,,16/08/2021,15:43:33,79,1919,"-71,52201663","-16,4285696",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jose Luis Bustamante Y Rivero,Local
+233,234,51878,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,,,,,02/07/2021,06:38:20,0,2,"-71,47802","-16,40855667",Alerta válida,Municipalidad Distrital de Paucarpata,Local
+234,235,71092,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,21/09/2021,12:27:50,48,1155,"-71,49949199","-16,42977866",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+235,236,49961,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,S,N,S,25/06/2021,11:09:39,26,636,"-73,27568566","-3,75956378",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+236,237,46753,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,10/06/2021,00:01:05,0,8,"-77,0907282","-11,98733934",Alerta no válida,Municipalidad Distrital de San Martin de Porres,Local
+237,238,44193,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,13/05/2021,14:57:37,0,0,"-77,09033833","-12,034825",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+238,239,48069,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,,,,,17/06/2021,16:14:17,0,0,"-77,08550162","-12,01670484",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+239,240,75874,18,MOQUEGUA,1801,MARISCAL NIETO,180104,SAMEGUA,1,,,,,13/10/2021,09:40:08,0,1,"-70,898461","-17,1844398",Alerta válida,Municipalidad Distrital de Samegua,Local
+240,241,40993,15,LIMA,1501,LIMA,150137,SANTA ANITA,,S,S,S,S,16/04/2021,15:59:39,0,1,"-76,9783168","-12,05474369",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+241,242,63393,15,LIMA,1501,LIMA,150137,SANTA ANITA,1,S,S,S,S,20/08/2021,15:42:28,0,0,"-76,97885586","-12,05472189",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+242,243,57313,7,CALLAO,701,CALLAO,70101,CALLAO,,,,,,27/07/2021,09:33:19,0,0,"-77,1254702","-12,0409663",Alerta no válida,Municipalidad Provincial de Callao,Local
+243,244,54769,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,15/07/2021,06:47:35,0,2,"-77,10098833","-12,023605",Alerta válida,Municipalidad Provincial de Callao,Local
+244,245,56065,7,CALLAO,701,CALLAO,70101,CALLAO,,,,,,22/07/2021,09:39:16,0,0,"-77,1009537","-12,0231783",Alerta válida,Municipalidad Provincial de Callao,Local
+245,246,59873,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,07/08/2021,12:51:29,1,46,"-77,1008717","-12,0242744",Alerta válida,Municipalidad Provincial de Callao,Local
+246,247,61491,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,14/08/2021,09:04:27,1,47,"-77,10110167","-12,024235",Alerta válida,Municipalidad Provincial de Callao,Local
+247,248,51890,16,LORETO,1601,MAYNAS,160108,PUNCHANA,,,,,,02/07/2021,14:16:15,0,0,"-73,25556325","-3,726822",Alerta no válida,Municipalidad Distrital de Punchana,Local
+248,249,50600,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,,,,,,27/06/2021,19:55:35,0,13,"-77,86204951","-6,23541784",Alerta no válida,Municipalidad Provincial de Chachapoyas,Local
+249,250,73315,21,PUNO,2104,CHUCUITO,210401,JULI,,,,,,28/09/2021,13:40:43,0,2,"-69,4584099","-16,2157385",Alerta no válida,Municipalidad Provincial de Chucuito,Local
+250,251,58915,8,CUSCO,801,CUSCO,80101,CUSCO,,,,,,01/08/2021,14:29:36,0,19,"-71,9893533","-13,5151417",Alerta no válida,Municipalidad Provincial de Cusco,Local
+251,252,49333,10,HUANUCO,1002,AMBO,100201,AMBO,1,S,N,S,N,22/06/2021,08:32:36,3,73,"-76,20424032","-10,12671769",Atención ejecutada por Municipalidad,Municipalidad Provincial de Ambo,Local
+252,253,49997,20,PIURA,2002,AYABACA,200201,AYABACA,,,,,,25/06/2021,15:57:23,0,2,"-79,71524872","-4,63948389",Alerta no válida,Municipalidad Provincial de Ayabaca,Local
+253,254,45165,6,CAJAMARCA,601,CAJAMARCA,60101,CAJAMARCA,,,,,,28/05/2021,11:52:47,0,5,"-78,49581837","-7,16319234",Alerta no válida,Municipalidad Provincial de Cajamarca,Local
+254,255,67233,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,N,S,S,06/09/2021,09:06:02,22,551,"-76,98765763","-11,93235121",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+255,256,78130,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,,N,,,,24/10/2021,07:32:50,12,290,"-77,01392293","-11,97765951",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+256,257,41956,15,LIMA,1501,LIMA,150116,LINCE,,,,,,28/04/2021,13:30:43,0,0,"-77,0324155","-12,08490892",Alerta no válida,Municipalidad Distrital de Lince,Local
+257,258,43873,15,LIMA,1501,LIMA,150116,LINCE,,,,,,11/05/2021,09:44:09,0,1,"-77,03494866","-12,08936907",Alerta no válida,Municipalidad Distrital de Lince,Local
+258,259,41955,15,LIMA,1501,LIMA,150116,LINCE,1,N,,,,28/04/2021,13:26:09,0,1,"-77,03238563","-12,08488939",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lince,Local
+259,260,50916,15,LIMA,1501,LIMA,150103,ATE,1,,,,,28/06/2021,13:32:34,0,2,"-76,92743186","-12,02388888",Alerta válida,Municipalidad Distrital de Ate,Local
+260,261,52520,15,LIMA,1501,LIMA,150103,ATE,1,,,,,04/07/2021,13:24:53,0,20,"-76,9410107","-12,0303766",Alerta válida,Municipalidad Distrital de Ate,Local
+261,262,52198,13,LA LIBERTAD,1301,TRUJILLO,130111,VICTOR LARCO HERRERA,1,,,,,03/07/2021,15:03:46,1,42,"-79,0538323","-8,13996903",Alerta válida,Municipalidad Distrital de Victor Larco Herrera,Local
+262,263,59235,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,,,,,,03/08/2021,12:40:20,0,6,"-76,9625296","-12,20705975",Alerta no válida,Municipalidad Distrital de Villa El Salvador,Local
+263,264,67555,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,S,08/09/2021,11:52:32,6,168,"-78,5223236","-6,6802103",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+264,265,49645,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,,,,,,24/06/2021,20:34:52,0,12,"-74,96528575","-12,78658487",Alerta no válida,Municipalidad Provincial de Huancavelica,Local
+265,266,74594,12,JUNIN,1201,HUANCAYO,120101,HUANCAYO,,,,,,09/10/2021,10:07:04,2,71,"-75,21231067","-12,07985628",Alerta no válida,Municipalidad Provincial de Huancayo,Local
+266,267,69796,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,15/09/2021,07:53:42,0,1,"-79,0475929","-8,1067542",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+267,268,69799,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,15/09/2021,08:14:57,0,0,"-79,04098699","-8,1086543",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+268,269,72997,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,27/09/2021,08:09:34,0,2,"-79,04116368","-8,1086411",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+269,270,72998,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,27/09/2021,08:20:29,0,2,"-79,0412125","-8,1087377",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+270,271,70438,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,18/09/2021,18:44:54,1,38,"-79,0201829","-8,1131548",Alerta válida,Municipalidad Provincial de Trujillo,Local
+271,272,72993,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,27/09/2021,07:12:29,0,3,"-79,0255425","-8,093435",Alerta válida,Municipalidad Provincial de Trujillo,Local
+272,273,75236,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,11/10/2021,11:35:25,0,22,"-79,03305501","-8,10829898",Alerta válida,Municipalidad Provincial de Trujillo,Local
+273,274,41316,15,LIMA,1501,LIMA,150105,BREÑA,,,,,,19/04/2021,10:53:28,2,49,"-77,0517544","-12,0612227",Alerta no válida,Municipalidad Distrital de Breña,Local
+274,275,72033,15,LIMA,1501,LIMA,150105,BREÑA,1,N,,,,22/09/2021,21:34:39,20,492,"-77,049969","-12,0507479",Atención ejecutada por Municipalidad,Municipalidad Distrital de Breña,Local
+275,276,76518,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,1,,,,,15/10/2021,15:16:23,0,0,"-76,98089333","-12,1399",Alerta válida,Municipalidad Distrital de Santiago de Surco,Local
+276,277,57633,13,LA LIBERTAD,1310,SANTIAGO DE CHUCO,131001,SANTIAGO DE CHUCO,,S,S,S,,28/07/2021,08:09:23,69,1665,"-78,17450127","-8,14621401",Atención ejecutada por Municipalidad,Municipalidad Provincial de Santiago de Chuco,Local
+277,278,63713,15,LIMA,1501,LIMA,150125,PUENTE PIEDRA,1,,,,,21/08/2021,08:20:52,1,48,"-77,06768962","-11,90030377",Alerta válida,Municipalidad Distrital de Puente Piedra,Local
+278,279,50593,22,SAN MARTIN,2209,SAN MARTIN,220909,LA BANDA DE SHILCAYO,1,,,,,27/06/2021,11:19:20,0,21,"-76,35033197","-6,48746914",Alerta válida,Municipalidad Distrital de La Banda de Shilcayo,Local
+279,280,52835,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,05/07/2021,08:14:28,0,1,"-77,05886917","-12,05305436",Alerta válida,Municipalidad Provincial de Lima,Local
+280,281,59249,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,04/08/2021,08:16:23,0,2,"-77,06100236","-12,05019674",Alerta válida,Municipalidad Provincial de Lima,Local
+281,282,59554,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,05/08/2021,12:56:27,0,2,"-77,0061577","-12,037262",Alerta válida,Municipalidad Provincial de Lima,Local
+282,283,65313,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,27/08/2021,07:46:35,0,0,"-77,05839201","-12,05219535",Alerta válida,Municipalidad Provincial de Lima,Local
+283,284,45158,1,AMAZONAS,105,LUYA,10501,LAMUD,,,,,,28/05/2021,11:47:29,0,5,"-77,95234644","-6,13910073",Alerta no válida,Municipalidad Provincial de Luya,Local
+284,285,47078,10,HUANUCO,1008,PACHITEA,100801,PANAO,1,,,,,11/06/2021,16:17:23,0,0,"-75,995045","-9,89608167",Alerta válida,Municipalidad Provincial de Pachitea,Local
+285,286,61493,15,LIMA,1501,LIMA,150108,CHORRILLOS,1,S,N,S,S,14/08/2021,09:59:02,52,1250,"-76,9980015","-12,1769502",Atención ejecutada por Municipalidad,Municipalidad Distrital de Chorrillos,Local
+286,287,72355,11,ICA,1102,CHINCHA,110201,CHINCHA ALTA,1,,,,,23/09/2021,12:11:26,0,1,"-76,13295254","-13,44062132",Alerta válida,Municipalidad Provincial de Chincha,Local
+287,288,72689,11,ICA,1102,CHINCHA,110201,CHINCHA ALTA,1,,,,,26/09/2021,08:36:23,1,25,"-76,13257948","-13,42781423",Alerta válida,Municipalidad Provincial de Chincha,Local
+288,289,81042,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,,,,,,13/11/2021,08:35:57,0,0,"-79,00167841","-8,07827223",Alerta pendiente validación,Municipalidad Distrital de El Porvenir,Local
+289,290,64034,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,1,,,,,22/08/2021,16:03:39,0,16,"-79,00159683","-8,07832846",Alerta válida,Municipalidad Distrital de El Porvenir,Local
+290,291,47077,15,LIMA,1501,LIMA,150122,MIRAFLORES,,,,,,11/06/2021,14:00:05,0,0,"-77,01376676","-12,1233598",Alerta no válida,Municipalidad Distrital de Miraflores,Local
+291,292,52197,15,LIMA,1501,LIMA,150122,MIRAFLORES,1,,,,,03/07/2021,14:33:56,1,43,"-77,0335646","-12,1221117",Alerta válida,Municipalidad Distrital de Miraflores,Local
+292,293,66913,2,ANCASH,218,SANTA,21801,CHIMBOTE,1,,,,,04/09/2021,08:58:34,2,49,"-78,59717667","-9,04739167",Alerta válida,Municipalidad Provincial de Santa,Local
+293,294,76516,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,15/10/2021,10:59:34,0,1,"-76,15556034","-13,40921242",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+294,295,44840,11,ICA,1101,ICA,110101,ICA,,,,,,18/05/2021,15:55:02,0,6,"-75,72395628","-14,09763728",Alerta no válida,Municipalidad Provincial de Ica,Local
+295,296,61494,11,ICA,1101,ICA,110101,ICA,1,,,,,14/08/2021,11:09:16,1,45,"-75,73466638","-14,05855129",Alerta válida,Municipalidad Provincial de Ica,Local
+296,297,64369,11,ICA,1101,ICA,110101,ICA,,,,,,24/08/2021,07:26:55,0,1,"-75,73079571","-14,06926774",Alerta válida,Municipalidad Provincial de Ica,Local
+297,298,80066,11,ICA,1101,ICA,110101,ICA,,,,,,06/11/2021,13:14:54,1,45,"-75,73405061","-14,06089296",Alerta válida,Municipalidad Provincial de Ica,Local
+298,299,49988,13,LA LIBERTAD,1301,TRUJILLO,130106,LAREDO,,,,,,25/06/2021,15:45:52,0,2,"-78,9555633","-8,0839954",Alerta no válida,Municipalidad Distrital de Laredo,Local
+299,300,49337,9,HUANCAVELICA,903,ANGARAES,90301,LIRCAY,1,,,,,22/06/2021,15:53:34,0,0,"-74,72357694","-12,99295476",Alerta válida,Municipalidad Provincial de Angaraes,Local
+300,301,49338,9,HUANCAVELICA,903,ANGARAES,90301,LIRCAY,1,,,,,22/06/2021,16:46:58,0,0,"-74,72454245","-13,00145959",Alerta válida,Municipalidad Provincial de Angaraes,Local
+301,302,61475,16,LORETO,1601,MAYNAS,160112,BELEN,1,,,,,13/08/2021,17:20:14,0,2,"-73,2482971","-3,7618964",Alerta válida,Municipalidad Distrital de Belen,Local
+302,303,49346,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,23/06/2021,14:59:12,47,1149,"-73,2695823","-3,77560887",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+303,304,50276,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,26/06/2021,13:29:37,44,1078,"-73,26239528","-3,76945729",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+304,305,50277,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,26/06/2021,13:32:43,44,1078,"-73,2662136","-3,7730509",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+305,306,60839,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,10/08/2021,10:48:46,0,1,"-73,26891022","-3,77501277",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+306,307,75239,8,CUSCO,801,CUSCO,80105,SAN SEBASTIAN,,,,,,11/10/2021,18:55:47,0,15,"-71,94056539","-13,54073747",Alerta no válida,Municipalidad Distrital de San Sebastian,Local
+307,308,54438,5,AYACUCHO,510,VICTOR FAJARDO,51002,ALCAMENCA,1,S,S,,S,13/07/2021,15:25:12,97,2330,"-74,1558864","-13,63879119",Atención ejecutada por Municipalidad,Municipalidad Distrital de Alcamenca,Local
+308,309,61794,15,LIMA,1501,LIMA,150106,CARABAYLLO,,,,,,15/08/2021,14:01:41,0,18,"-77,07668333","-11,83193833",Alerta no válida,Municipalidad Distrital de Carabayllo,Local
+309,310,78807,1,AMAZONAS,107,UTCUBAMBA,10704,EL MILAGRO,,,,,,29/10/2021,16:32:45,4,114,"-78,5605072","-5,6366535",Alerta no válida,Municipalidad Distrital de El Milagro,Local
+310,311,79746,12,JUNIN,1201,HUANCAYO,120114,EL TAMBO,,,,,,02/11/2021,08:27:50,0,0,"-75,2267962","-12,03444697",Alerta pendiente validación,Municipalidad Distrital de El Tambo,Local
+311,312,54778,15,LIMA,1501,LIMA,150119,LURIN,1,,,,,15/07/2021,20:04:46,0,12,"-76,8675777","-12,2768852",Alerta válida,Municipalidad Distrital de Lurin,Local
+312,313,77474,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,1,,,,,20/10/2021,13:00:48,0,0,"-78,51723767","-9,14150226",Alerta válida,Municipalidad Distrital de Nuevo Chimbote,Local
+313,314,59251,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,04/08/2021,11:29:11,0,6,"-71,9023358","-13,5332905",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+314,315,80706,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,,,,,,09/11/2021,21:20:03,0,11,"-71,9029303","-13,5328811",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+315,316,39414,15,LIMA,1501,LIMA,150113,JESUS MARIA,,,,,,21/03/2021,11:36:31,0,24,"-77,048739","-12,07264971",Alerta no válida,Municipalidad Distrital de Jesus Maria,Local
+316,317,55717,4,AREQUIPA,401,AREQUIPA,40129,JOSE LUIS BUSTAMANTE Y RIVERO,,,,,,19/07/2021,20:26:44,0,12,"-71,5241035","-16,4316276",Alerta no válida,Municipalidad Distrital de Jose Luis Bustamante Y Rivero,Local
+317,318,76209,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,,,,,,14/10/2021,08:34:46,0,1,"-71,5013598","-16,4087681",Alerta no válida,Municipalidad Distrital de Paucarpata,Local
+318,319,51877,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,,,,,02/07/2021,06:36:49,0,2,"-71,47813333","-16,40912333",Alerta válida,Municipalidad Distrital de Paucarpata,Local
+319,320,53475,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,,,,,07/07/2021,12:44:49,0,1,"-71,48048059","-16,40704583",Alerta válida,Municipalidad Distrital de Paucarpata,Local
+320,321,51873,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,02/07/2021,06:28:38,125,3006,"-71,48089333","-16,40902333",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+321,322,51884,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,02/07/2021,06:50:36,125,3006,"-71,48019333","-16,40914333",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+322,323,65954,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,01/09/2021,14:20:32,0,1,"-73,27699319","-3,77835574",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+323,324,46757,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,S,S,S,10/06/2021,10:18:36,41,997,"-73,2869498","-3,78402312",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+324,325,54118,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,11/07/2021,13:47:24,3,80,"-73,29351523","-3,77545166",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+325,326,75235,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,,,,,11/10/2021,10:39:05,0,23,"-77,08788495","-12,02041917",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+326,327,43555,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,S,N,N,S,07/05/2021,10:54:02,1,35,"-77,08540201","-11,95380626",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Martin de Porres,Local
+327,328,43556,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,S,N,N,S,07/05/2021,10:57:35,1,35,"-77,085175","-11,95604",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Martin de Porres,Local
+328,329,43557,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,S,N,N,S,07/05/2021,10:59:57,1,35,"-77,084645","-11,95862",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Martin de Porres,Local
+329,330,75875,18,MOQUEGUA,1801,MARISCAL NIETO,180104,SAMEGUA,1,,,,,13/10/2021,09:41:30,0,1,"-70,898154","-17,1844127",Alerta válida,Municipalidad Distrital de Samegua,Local
+330,331,41318,15,LIMA,1501,LIMA,150137,SANTA ANITA,,,,,,19/04/2021,10:54:41,2,49,"-76,97878059","-12,05369244",Alerta no válida,Municipalidad Distrital de Santa Anita,Local
+331,332,45168,15,LIMA,1501,LIMA,150137,SANTA ANITA,,S,S,S,S,28/05/2021,11:56:14,0,0,"-76,97905421","-12,05442007",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+332,333,44849,7,CALLAO,701,CALLAO,70101,CALLAO,,,,,,18/05/2021,16:59:23,0,5,"-77,10594074","-12,05476198",Alerta no válida,Municipalidad Provincial de Callao,Local
+333,334,69473,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,14/09/2021,09:30:59,0,0,"-77,13510064","-12,04409023",Alerta válida,Municipalidad Provincial de Callao,Local
+334,335,51888,16,LORETO,1601,MAYNAS,160108,PUNCHANA,1,N,N,N,S,02/07/2021,14:01:35,11,282,"-73,25426038","-3,72077977",Atención ejecutada por Municipalidad,Municipalidad Distrital de Punchana,Local
+335,336,46763,15,LIMA,1501,LIMA,150141,SURQUILLO,,,,,,10/06/2021,10:42:39,0,0,"-77,01464255","-12,11868336",Alerta no válida,Municipalidad Distrital de Surquillo,Local
+336,337,47074,15,LIMA,1501,LIMA,150141,SURQUILLO,,,,,,11/06/2021,13:54:17,0,0,"-77,01634576","-12,1193449",Alerta no válida,Municipalidad Distrital de Surquillo,Local
+337,338,53830,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,,,,,,10/07/2021,11:33:54,1,46,"-77,8353425","-6,22196044",Alerta no válida,Municipalidad Provincial de Chachapoyas,Local
+338,339,53829,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,1,,,,,10/07/2021,11:31:23,1,47,"-77,83530043","-6,22215629",Alerta válida,Municipalidad Provincial de Chachapoyas,Local
+339,340,79794,14,LAMBAYEQUE,1401,CHICLAYO,140101,CHICLAYO,,,,,,05/11/2021,07:51:59,0,2,"-79,82741553","-6,76999764",Alerta válida,Municipalidad Provincial de Chiclayo,Local
+340,341,54753,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,14/07/2021,09:03:57,0,1,"-71,95988495","-13,51862916",Alerta válida,Municipalidad Provincial de Cusco,Local
+341,342,57955,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,29/07/2021,12:47:25,0,19,"-71,99041506","-13,51459352",Alerta válida,Municipalidad Provincial de Cusco,Local
+342,343,70134,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,17/09/2021,21:17:03,2,59,"-71,9689686","-13,5180952",Alerta válida,Municipalidad Provincial de Cusco,Local
+343,344,45169,6,CAJAMARCA,606,CUTERVO,60601,CUTERVO,,,,,,28/05/2021,11:59:38,0,5,"-78,81680084","-6,37705386",Alerta no válida,Municipalidad Provincial de Cutervo,Local
+344,345,46754,10,HUANUCO,1002,AMBO,100201,AMBO,1,S,N,S,S,10/06/2021,08:01:22,4,101,"-76,2030454","-10,12844914",Atención ejecutada por Municipalidad,Municipalidad Provincial de Ambo,Local
+345,346,81026,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,,,,,,12/11/2021,09:25:54,0,5,"-76,98730872","-11,93253281",Alerta no válida,Municipalidad Distrital de San Juan de Lurigancho,Local
+346,347,78450,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,,,,,,25/10/2021,17:06:42,0,2,"-76,95290487","-11,94203993",Alerta válida,Municipalidad Distrital de San Juan de Lurigancho,Local
+347,348,51573,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,N,,,,01/07/2021,14:29:36,0,21,"-76,9973983","-12,0139312",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+348,349,56993,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,N,S,S,26/07/2021,09:02:27,22,535,"-76,98753017","-11,93242963",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+349,350,41315,7,CALLAO,701,CALLAO,70104,LA PERLA,,,,,,19/04/2021,10:50:59,2,49,"-77,10703681","-12,06684861",Alerta no válida,Municipalidad Distrital de La Perla,Local
+350,351,42274,15,LIMA,1501,LIMA,150103,ATE,,,,,,29/04/2021,13:19:43,0,0,"-76,92006688","-12,02558794",Alerta no válida,Municipalidad Distrital de Ate,Local
+351,352,79106,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,,,,,,30/10/2021,12:31:12,3,94,"-76,91840929","-12,22581394",Alerta no válida,Municipalidad Distrital de Villa El Salvador,Local
+352,353,41321,15,LIMA,1501,LIMA,150143,VILLA MARIA DEL TRIUNFO,,,,,,19/04/2021,10:59:01,2,48,"-76,94644267","-12,18468066",Alerta no válida,Municipalidad Distrital de Villa Maria del Triunfo,Local
+353,354,44514,15,LIMA,1501,LIMA,150143,VILLA MARIA DEL TRIUNFO,1,N,,,,14/05/2021,16:55:28,2,64,"-76,94673136","-12,17002854",Atención ejecutada por Municipalidad,Municipalidad Distrital de Villa Maria del Triunfo,Local
+354,355,67556,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,,08/09/2021,11:55:52,12,291,"-78,52227046","-6,68139404",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+355,356,67564,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,S,08/09/2021,12:20:54,6,164,"-78,51806098","-6,67900368",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+356,357,67565,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,S,08/09/2021,12:20:54,6,164,"-78,51806098","-6,67900368",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+357,358,49644,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,,,,,,24/06/2021,20:34:52,0,12,"-74,96528575","-12,78658487",Alerta no válida,Municipalidad Provincial de Huancavelica,Local
+358,359,49643,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,1,S,N,S,S,24/06/2021,20:24:36,115,2779,"-74,97030596","-12,78843852",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huancavelica,Local
+359,360,56679,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,1,N,,,,24/07/2021,16:06:17,81,1944,"-74,94961167","-12,78484833",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huancavelica,Local
+360,361,62433,6,CAJAMARCA,608,JAEN,60801,JAEN,1,S,N,S,S,17/08/2021,10:27:57,9,223,"-78,79035503","-5,75191146",Atención ejecutada por Municipalidad,Municipalidad Provincial de Jaen,Local
+361,362,68195,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,10:06:02,0,2,"-79,0411708","-8,108784",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+362,363,68203,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,10:58:23,0,1,"-79,04671158","-8,11936193",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+363,364,69794,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,15/09/2021,07:50:51,0,1,"-79,04649532","-8,10611798",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+364,365,69793,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,15/09/2021,07:49:24,0,1,"-79,04695834","-8,10648708",Alerta válida,Municipalidad Provincial de Trujillo,Local
+365,366,76833,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,18/10/2021,14:02:04,0,0,"-76,99556973","-12,12776956",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+366,367,54435,24,TUMBES,2402,CONTRALMIRANTE VILLAR,240201,ZORRITOS,1,,,,,13/07/2021,14:56:30,0,1,"-80,64288833","-3,66852667",Alerta válida,Municipalidad Provincial de Contralmirante Villar,Local
+367,368,54436,24,TUMBES,2402,CONTRALMIRANTE VILLAR,240201,ZORRITOS,1,,,,,13/07/2021,14:59:35,0,1,"-80,64825833","-3,668435",Alerta válida,Municipalidad Provincial de Contralmirante Villar,Local
+368,369,74916,13,LA LIBERTAD,1310,SANTIAGO DE CHUCO,131001,SANTIAGO DE CHUCO,1,S,S,S,N,10/10/2021,16:27:59,9,232,"-78,17844833","-8,14521333",Atención ejecutada por Municipalidad,Municipalidad Provincial de Santiago de Chuco,Local
+369,370,75554,12,JUNIN,1203,CHANCHAMAYO,120302,PERENE,,,,,,12/10/2021,21:33:20,0,11,"-74,8808493","-10,9216169",Alerta no válida,Municipalidad Distrital de Perene,Local
+370,371,49993,10,HUANUCO,1006,LEONCIO PRADO,100601,RUPA-RUPA,,,,,,25/06/2021,15:49:06,0,2,"-76,0005559","-9,297763",Alerta no válida,Municipalidad Provincial de Leoncio Prado,Local
+371,372,40033,15,LIMA,1501,LIMA,150101,LIMA,,,,,,09/04/2021,12:27:46,0,1,"-77,03215547","-12,04529675",Alerta no válida,Municipalidad Provincial de Lima,Local
+372,373,54129,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,12/07/2021,07:18:34,0,3,"-77,05724327","-12,05153287",Alerta válida,Municipalidad Provincial de Lima,Local
+373,374,52834,16,LORETO,1601,MAYNAS,160101,IQUITOS,1,,,,,05/07/2021,08:04:55,0,1,"-73,25104431","-3,73406904",Alerta válida,Municipalidad Provincial de Maynas,Local
+374,375,53806,21,PUNO,2101,PUNO,210101,PUNO,1,S,N,S,S,09/07/2021,11:37:35,28,695,"-70,02884667","-15,84075167",Atención ejecutada por Municipalidad,Municipalidad Provincial de Puno,Local
+375,376,78131,6,CAJAMARCA,610,SAN MARCOS,61001,PEDRO GALVEZ,,,,,,24/10/2021,18:11:29,1,25,"-78,1711782","-7,33842194",Alerta válida,Municipalidad Provincial de San Marcos,Local
+376,377,63395,25,UCAYALI,2503,PADRE ABAD,250303,CURIMANA,,,,,,20/08/2021,15:48:23,0,1,"-75,15246384","-8,43431108",Alerta no válida,Municipalidad Distrital de Curimana,Local
+377,378,73953,11,ICA,1102,CHINCHA,110201,CHINCHA ALTA,1,,,,,02/10/2021,13:51:01,1,47,"-76,13296457","-13,44071881",Alerta válida,Municipalidad Provincial de Chincha,Local
+378,379,48065,10,HUANUCO,1001,HUANUCO,100101,HUANUCO,1,,,,,17/06/2021,10:11:27,0,2,"-76,24824037","-9,93953643",Alerta válida,Municipalidad Provincial de Huanuco,Local
+379,380,48673,15,LIMA,1501,LIMA,150122,MIRAFLORES,1,,,,,19/06/2021,14:34:39,1,42,"-77,01643222","-12,12193753",Alerta válida,Municipalidad Distrital de Miraflores,Local
+380,381,51234,15,LIMA,1501,LIMA,150122,MIRAFLORES,1,,,,,29/06/2021,09:52:50,0,23,"-77,0295562","-12,11543393",Alerta válida,Municipalidad Distrital de Miraflores,Local
+381,382,53155,15,LIMA,1501,LIMA,150122,MIRAFLORES,1,,,,,06/07/2021,09:48:09,0,3,"-77,0388392","-12,1200954",Alerta válida,Municipalidad Distrital de Miraflores,Local
+382,383,62114,4,AREQUIPA,401,AREQUIPA,40104,CERRO COLORADO,1,,,,,16/08/2021,16:57:15,0,3,"-71,5563319","-16,37711627",Alerta válida,Municipalidad Distrital de Cerro Colorado,Local
+383,384,66273,12,JUNIN,1207,TARMA,120706,PALCA,1,,,,,02/09/2021,10:52:48,0,1,"-75,55701167","-11,33701",Alerta válida,Municipalidad Distrital de Palca,Local
+384,385,49990,23,TACNA,2301,TACNA,230110,CORONEL GREGORIO ALBARRACIN LANCHIPA,,,,,,25/06/2021,15:46:20,0,2,"-70,24896729","-18,03415185",Alerta no válida,Municipalidad Distrital de Coronel Gregorio Albarracin Lanchipa,Local
+385,386,71713,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,,,,,,22/09/2021,17:53:38,0,1,"-76,15163324","-13,41028739",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+386,387,77812,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,,,,,,22/10/2021,10:29:26,0,1,"-76,15486637","-13,40882919",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+387,388,49956,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,25/06/2021,10:46:58,46,1105,"-73,26385531","-3,77109309",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+388,389,60835,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,10/08/2021,10:44:17,0,1,"-73,272674","-3,7767848",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+389,390,60838,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,10/08/2021,10:47:46,0,1,"-73,26971058","-3,77564644",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+390,391,49995,15,LIMA,1505,CAÑETE,150502,ASIA,,,,,,25/06/2021,15:53:23,0,2,"-76,5660528","-12,79961459",Alerta no válida,Municipalidad Distrital de Asia,Local
+391,392,52519,13,LA LIBERTAD,1302,ASCOPE,130202,CHICAMA,,,,,,04/07/2021,12:31:33,0,20,"-79,01445987","-7,73815695",Alerta no válida,Municipalidad Distrital de Chicama,Local
+392,393,45795,15,LIMA,1501,LIMA,150106,CARABAYLLO,,,,,,06/06/2021,13:56:38,0,18,"-77,01972449","-11,88024931",Alerta no válida,Municipalidad Distrital de Carabayllo,Local
+393,394,56354,15,LIMA,1508,HUAURA,150805,HUALMAY,1,,,,,23/07/2021,14:10:43,0,1,"-77,59657463","-11,09497356",Alerta válida,Municipalidad Distrital de Hualmay,Local
+394,395,61492,15,LIMA,1508,HUAURA,150805,HUALMAY,1,,,,,14/08/2021,09:45:30,1,47,"-77,5971825","-11,0909324",Alerta válida,Municipalidad Distrital de Hualmay,Local
+395,396,45154,15,LIMA,1505,CAÑETE,150507,IMPERIAL,,,,,,28/05/2021,11:44:28,0,5,"-76,34989522","-13,05890504",Alerta no válida,Municipalidad Distrital de Imperial,Local
+396,397,49992,2,ANCASH,201,HUARAZ,20105,INDEPENDENCIA,,,,,,25/06/2021,15:48:36,0,2,"-77,5312862","-9,5162971",Alerta no válida,Municipalidad Distrital de Independencia,Local
+397,398,51575,15,LIMA,1501,LIMA,150117,LOS OLIVOS,1,,,,,01/07/2021,14:37:33,0,4,"-77,0711568","-11,9813218",Alerta válida,Municipalidad Distrital de Los Olivos,Local
+398,399,51576,15,LIMA,1501,LIMA,150117,LOS OLIVOS,1,,,,,01/07/2021,14:44:09,0,4,"-77,0711689","-11,9813172",Alerta válida,Municipalidad Distrital de Los Olivos,Local
+399,400,57317,15,LIMA,1501,LIMA,150119,LURIN,1,,,,,27/07/2021,20:35:09,2,60,"-76,8682362","-12,2766284",Alerta válida,Municipalidad Distrital de Lurin,Local
+400,401,52514,22,SAN MARTIN,2209,SAN MARTIN,220910,MORALES,1,,,,,04/07/2021,07:33:15,1,25,"-76,38644903","-6,46288289",Alerta válida,Municipalidad Distrital de Morales,Local
+401,402,52516,22,SAN MARTIN,2209,SAN MARTIN,220910,MORALES,1,,,,,04/07/2021,08:20:24,1,25,"-76,3866856","-6,4729199",Alerta válida,Municipalidad Distrital de Morales,Local
+402,403,54114,12,JUNIN,1202,CONCEPCION,120213,ORCOTUNA,1,N,S,S,S,11/07/2021,10:02:55,67,1612,"-75,29845776","-11,96302943",Atención ejecutada por Municipalidad,Municipalidad Distrital de Orcotuna,Local
+403,404,54779,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,15/07/2021,23:12:12,0,9,"-71,90292087","-13,53253113",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+404,405,39411,15,LIMA,1501,LIMA,150113,JESUS MARIA,,,,,,21/03/2021,11:11:41,0,24,"-77,04869988","-12,07758109",Alerta no válida,Municipalidad Distrital de Jesus Maria,Local
+405,406,54131,4,AREQUIPA,401,AREQUIPA,40129,JOSE LUIS BUSTAMANTE Y RIVERO,,,,,,12/07/2021,07:25:17,0,2,"-71,5253862","-16,4340675",Alerta no válida,Municipalidad Distrital de Jose Luis Bustamante Y Rivero,Local
+406,407,53837,4,AREQUIPA,401,AREQUIPA,40129,JOSE LUIS BUSTAMANTE Y RIVERO,1,S,S,S,,10/07/2021,17:19:05,11,286,"-71,52537861","-16,43404021",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jose Luis Bustamante Y Rivero,Local
+407,408,50005,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,,,,,,25/06/2021,16:22:57,0,1,"-71,50584833","-16,41467333",Alerta no válida,Municipalidad Distrital de Paucarpata,Local
+408,409,73313,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,28/09/2021,08:50:05,37,891,"-71,48610617","-16,40807812",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+409,410,51555,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,,,,,,30/06/2021,15:55:53,0,0,"-73,2756146","-3,7792013",Alerta no válida,Municipalidad Distrital de San Juan Bautista,Local
+410,411,56675,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,24/07/2021,13:57:53,1,44,"-73,276197","-3,76990221",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+411,412,56678,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,24/07/2021,14:02:22,1,43,"-73,2777422","-3,77506838",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+412,413,49958,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,25/06/2021,10:56:35,19,467,"-73,26745223","-3,76035996",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+413,414,49965,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,S,N,S,25/06/2021,11:15:26,26,636,"-73,27257734","-3,76199124",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+414,415,49966,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,S,S,S,25/06/2021,11:19:54,19,467,"-73,27615517","-3,76985821",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+415,416,56049,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,,S,N,S,S,21/07/2021,08:53:39,0,14,"-73,30808583","-3,80014451",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+416,417,49977,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,25/06/2021,15:39:10,0,2,"-77,08436","-12,00888333",Alerta no válida,Municipalidad Distrital de San Martin de Porres,Local
+417,418,69476,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,14/09/2021,15:45:14,0,0,"-77,0835577","-11,9765328",Alerta no válida,Municipalidad Distrital de San Martin de Porres,Local
+418,419,71074,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,,,,,20/09/2021,08:12:17,0,0,"-77,07574002","-12,03359999",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+419,420,80387,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,07/11/2021,14:18:27,0,19,"-77,0812329","-11,98919402",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+420,421,63396,20,PIURA,2004,MORROPON,200406,SALITRAL,,,,,,20/08/2021,16:16:42,0,1,"-79,85917767","-5,34178048",Alerta no válida,Municipalidad Distrital de Salitral,Local
+421,422,75873,18,MOQUEGUA,1801,MARISCAL NIETO,180104,SAMEGUA,,,,,,13/10/2021,09:38:29,0,1,"-70,8987635","-17,1837751",Alerta no válida,Municipalidad Distrital de Samegua,Local
+422,423,53473,14,LAMBAYEQUE,1401,CHICLAYO,140113,REQUE,,,,,,07/07/2021,09:47:04,0,1,"-79,79298165","-6,89251452",Alerta no válida,Municipalidad Distrital de Reque,Local
+423,424,53836,14,LAMBAYEQUE,1401,CHICLAYO,140113,REQUE,1,S,N,S,S,10/07/2021,17:12:14,121,2926,"-79,79280335","-6,89247009",Atención ejecutada por Municipalidad,Municipalidad Distrital de Reque,Local
+424,425,55076,11,ICA,1101,ICA,110108,SALAS,1,,,,,16/07/2021,09:43:35,0,1,"-75,75847575","-14,00480754",Alerta válida,Municipalidad Distrital de Salas,Local
+425,426,42289,15,LIMA,1501,LIMA,150133,SAN JUAN DE MIRAFLORES,1,N,N,S,S,30/04/2021,11:05:58,11,275,"-76,97143508","-12,17221693",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Miraflores,Local
+426,427,44833,15,LIMA,1501,LIMA,150137,SANTA ANITA,,S,S,N,S,18/05/2021,15:35:43,0,0,"-76,97829976","-12,05472616",Atención programada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+427,428,58594,8,CUSCO,801,CUSCO,80106,SANTIAGO,1,,,,,31/07/2021,16:50:10,1,41,"-71,98899","-13,53277333",Alerta válida,Municipalidad Distrital de Santiago,Local
+428,429,76193,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,13/10/2021,18:10:56,0,14,"-77,1157798","-12,0537144",Alerta válida,Municipalidad Provincial de Callao,Local
+429,430,54773,5,AYACUCHO,502,CANGALLO,50201,CANGALLO,,,,,,15/07/2021,12:19:36,0,0,"-74,1440521","-13,62876985",Alerta no válida,Municipalidad Provincial de Cangallo,Local
+430,431,55715,12,JUNIN,1201,HUANCAYO,120133,SAPALLANGA,1,,,,,19/07/2021,17:30:21,0,0,"-75,15233457","-12,13432615",Alerta válida,Municipalidad Distrital de Sapallanga,Local
+431,432,51886,16,LORETO,1601,MAYNAS,160108,PUNCHANA,1,S,N,N,S,02/07/2021,13:47:17,4,118,"-73,25191987","-3,7253793",Atención ejecutada por Municipalidad,Municipalidad Distrital de Punchana,Local
+432,433,51889,16,LORETO,1601,MAYNAS,160108,PUNCHANA,1,N,N,S,S,02/07/2021,14:03:40,108,2611,"-73,25392129","-3,71966553",Atención ejecutada por Municipalidad,Municipalidad Distrital de Punchana,Local
+433,434,46764,15,LIMA,1501,LIMA,150141,SURQUILLO,,,,,,10/06/2021,11:07:22,0,0,"-77,01321997","-12,11779071",Alerta no válida,Municipalidad Distrital de Surquillo,Local
+434,435,44842,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,,,,,,18/05/2021,15:59:25,0,7,"-77,8717378","-6,22813539",Alerta no válida,Municipalidad Provincial de Chachapoyas,Local
+435,436,53828,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,1,,,,,10/07/2021,11:27:39,1,47,"-77,83601834","-6,22299045",Alerta válida,Municipalidad Provincial de Chachapoyas,Local
+436,437,53833,1,AMAZONAS,101,CHACHAPOYAS,10101,CHACHAPOYAS,1,,,,,10/07/2021,12:40:57,1,45,"-77,83905359","-6,22011839",Alerta válida,Municipalidad Provincial de Chachapoyas,Local
+437,438,58914,8,CUSCO,801,CUSCO,80101,CUSCO,,,,,,01/08/2021,14:29:36,0,19,"-71,9893533","-13,5151417",Alerta no válida,Municipalidad Provincial de Cusco,Local
+438,439,52196,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,03/07/2021,13:57:29,1,43,"-71,9780182","-13,5135813",Alerta válida,Municipalidad Provincial de Cusco,Local
+439,440,49981,16,LORETO,1602,ALTO AMAZONAS,160201,YURIMAGUAS,,,,,,25/06/2021,15:44:15,0,2,"-76,12711288","-5,88474725",Alerta no válida,Municipalidad Provincial de Alto Amazonas,Local
+440,441,57638,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,N,S,S,28/07/2021,20:09:09,19,476,"-76,98745421","-11,93248241",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+441,442,55075,7,CALLAO,701,CALLAO,70104,LA PERLA,1,N,,,,16/07/2021,07:53:40,3,81,"-77,1133672","-12,0669819",Atención programada por Municipalidad,Municipalidad Distrital de La Perla,Local
+442,443,41635,15,LIMA,1501,LIMA,150116,LINCE,1,N,,,,26/04/2021,10:54:22,0,4,"-77,03494572","-12,08348705",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lince,Local
+443,444,45809,15,LIMA,1501,LIMA,150103,ATE,,,,,,07/06/2021,00:26:37,0,8,"-76,92421688","-12,0399004",Alerta no válida,Municipalidad Distrital de Ate,Local
+444,445,74593,15,LIMA,1501,LIMA,150103,ATE,,,,,,09/10/2021,09:52:48,2,72,"-76,821235","-12,017115",Alerta no válida,Municipalidad Distrital de Ate,Local
+445,446,53801,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,1,,,,,09/07/2021,10:51:35,0,0,"-76,9435571","-12,1861507",Alerta válida,Municipalidad Distrital de Villa El Salvador,Local
+446,447,63398,8,CUSCO,809,LA CONVENCION,80913,VILLA KINTIARINA,,,,,,20/08/2021,16:40:10,0,0,"-73,5285388","-12,9184449",Alerta no válida,Municipalidad Distrital de Villa Kintiarina,Local
+447,448,64372,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,N,S,S,24/08/2021,12:36:22,27,651,"-78,5176078","-6,6799568",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+448,449,67554,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,,08/09/2021,11:50:11,12,291,"-78,521691","-6,6801634",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+449,450,67561,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,N,S,S,08/09/2021,12:07:01,5,123,"-78,52325","-6,6802228",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+450,451,70115,5,AYACUCHO,501,HUAMANGA,50101,AYACUCHO,1,,,,,16/09/2021,15:44:35,0,1,"-74,2299755","-13,178489",Alerta válida,Municipalidad Provincial de Huamanga,Local
+451,452,55713,5,AYACUCHO,501,HUAMANGA,50101,AYACUCHO,1,N,S,N,S,19/07/2021,10:39:01,116,2786,"-74,22994822","-13,15157757",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huamanga,Local
+452,453,64993,5,AYACUCHO,501,HUAMANGA,50101,AYACUCHO,1,S,N,S,S,26/08/2021,09:29:28,78,1875,"-74,23085881","-13,14957935",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huamanga,Local
+453,454,69802,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,,,,,,15/09/2021,18:23:09,0,14,"-74,9715344","-12,7869238",Alerta no válida,Municipalidad Provincial de Huancavelica,Local
+454,455,60851,15,LIMA,1508,HUAURA,150801,HUACHO,1,,,,,11/08/2021,12:42:46,0,1,"-77,6015321","-11,10315248",Alerta válida,Municipalidad Provincial de Huaura,Local
+455,456,55399,4,AREQUIPA,407,ISLAY,40701,MOLLENDO,1,N,,,,18/07/2021,14:38:31,22,529,"-72,0077514","-17,01454926",Atención ejecutada por Municipalidad,Municipalidad Provincial de Islay,Local
+456,457,53827,12,JUNIN,1204,JAUJA,120401,JAUJA,1,,,,,10/07/2021,11:13:38,1,47,"-75,49871043","-11,77716042",Alerta válida,Municipalidad Provincial de Jauja,Local
+457,458,44843,23,TACNA,2301,TACNA,230101,TACNA,,,,,,18/05/2021,16:03:33,0,6,"-70,24243283","-18,02503672",Alerta no válida,Municipalidad Provincial de Tacna,Local
+458,459,49989,20,PIURA,2007,TALARA,200701,PARIÑAS,,,,,,25/06/2021,15:46:05,0,2,"-81,17433439","-4,59163347",Alerta no válida,Municipalidad Provincial de Talara,Local
+459,460,49974,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,1,N,N,S,S,25/06/2021,12:28:55,132,3192,"-74,86401333","-12,39791",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tayacaja,Local
+460,461,49975,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,1,N,N,S,S,25/06/2021,12:29:46,132,3192,"-74,86388667","-12,39786333",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tayacaja,Local
+461,462,51577,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,1,N,N,S,S,01/07/2021,16:24:22,126,3044,"-74,86515333","-12,39882833",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tayacaja,Local
+462,463,67553,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,08/09/2021,09:30:03,0,5,"-79,02971308","-8,10637543",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+463,464,69154,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,13/09/2021,10:31:43,0,2,"-79,0152371","-8,1074298",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+464,465,69795,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,15/09/2021,07:51:38,0,1,"-79,04705348","-8,10644642",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+465,466,70129,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,17/09/2021,08:06:13,0,0,"-79,03813278","-8,09035535",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+466,467,70131,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,17/09/2021,08:20:08,0,2,"-79,0389076","-8,0898447",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+467,468,71089,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,21/09/2021,07:18:26,0,1,"-79,0436313","-8,0993633",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+468,469,68200,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,10/09/2021,10:45:19,0,2,"-79,0471274","-8,1196902",Alerta válida,Municipalidad Provincial de Trujillo,Local
+469,470,70437,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,18/09/2021,18:44:03,1,38,"-79,02005553","-8,11312973",Alerta válida,Municipalidad Provincial de Trujillo,Local
+470,471,73000,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,27/09/2021,10:18:42,0,7,"-79,04671669","-8,11936302",Alerta válida,Municipalidad Provincial de Trujillo,Local
+471,472,72034,15,LIMA,1501,LIMA,150105,BREÑA,1,S,N,S,S,22/09/2021,21:42:09,13,327,"-77,05091333","-12,049765",Atención ejecutada por Municipalidad,Municipalidad Distrital de Breña,Local
+472,473,77491,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,20/10/2021,17:36:22,0,0,"-76,99542063","-12,13024109",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+473,474,41329,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,1,S,S,S,S,21/04/2021,13:20:25,20,483,"-76,99575261","-12,1285494",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santiago de Surco,Local
+474,475,72691,12,JUNIN,1203,CHANCHAMAYO,120302,PERENE,,,,,,26/09/2021,22:15:24,0,12,"-74,88020881","-10,92183816",Alerta no válida,Municipalidad Distrital de Perene,Local
+475,476,74914,15,LIMA,1502,BARRANCA,150204,SUPE,1,,,,,10/10/2021,10:27:35,1,47,"-77,71632795","-10,80293062",Alerta válida,Municipalidad Distrital de Supe,Local
+476,477,80723,4,AREQUIPA,401,AREQUIPA,40124,UCHUMAYO,,,,,,11/11/2021,14:13:59,0,0,"-71,69035683","-16,45760338",Alerta válida,Municipalidad Distrital de Uchumayo,Local
+477,478,52517,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,04/07/2021,08:59:28,0,24,"-77,05851968","-12,05320158",Alerta válida,Municipalidad Provincial de Lima,Local
+478,479,52836,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,05/07/2021,08:15:36,0,1,"-77,05943774","-12,0528537",Alerta válida,Municipalidad Provincial de Lima,Local
+479,480,59250,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,04/08/2021,08:17:24,0,2,"-77,05981129","-12,04990594",Alerta válida,Municipalidad Provincial de Lima,Local
+480,481,46434,10,HUANUCO,1008,PACHITEA,100801,PANAO,,,,,,09/06/2021,15:40:02,0,0,"-75,99423355","-9,8974855",Alerta no válida,Municipalidad Provincial de Pachitea,Local
+481,482,41319,15,LIMA,1501,LIMA,150108,CHORRILLOS,,,,,,19/04/2021,10:54:43,2,49,"-77,00966976","-12,1918758",Alerta no válida,Municipalidad Distrital de Chorrillos,Local
+482,483,48049,19,PASCO,1901,PASCO,190101,CHAUPIMARCA,,N,N,N,S,16/06/2021,11:23:22,0,23,"-76,25747798","-10,68714005",Atención ejecutada por Municipalidad,Municipalidad Provincial de Pasco,Local
+483,484,52194,15,LIMA,1501,LIMA,150122,MIRAFLORES,1,,,,,03/07/2021,12:08:25,1,45,"-77,03470445","-12,11808957",Alerta válida,Municipalidad Distrital de Miraflores,Local
+484,485,55409,22,SAN MARTIN,2209,SAN MARTIN,220901,TARAPOTO,,,,,,18/07/2021,11:03:58,0,21,"-76,3666108","-6,4880746",Alerta no válida,Municipalidad Provincial de San Martin,Local
+485,486,72369,22,SAN MARTIN,2209,SAN MARTIN,220901,TARAPOTO,1,S,S,S,,24/09/2021,08:54:50,11,267,"-76,35703102","-6,48447964",Atención ejecutada por Municipalidad,Municipalidad Provincial de San Martin,Local
+486,487,74290,8,CUSCO,811,PAUCARTAMBO,81101,PAUCARTAMBO,1,S,S,S,,05/10/2021,11:14:44,13,318,"-71,59667481","-13,31371126",Atención ejecutada por Municipalidad,Municipalidad Provincial de Paucartambo,Local
+487,488,53793,9,HUANCAVELICA,904,CASTROVIRREYNA,90401,CASTROVIRREYNA,1,S,S,S,,09/07/2021,09:11:39,0,6,"-75,31729174","-13,28182756",Atención ejecutada por Municipalidad,Municipalidad Provincial de Castrovirreyna,Local
+488,489,53799,9,HUANCAVELICA,904,CASTROVIRREYNA,90401,CASTROVIRREYNA,1,S,S,S,,09/07/2021,09:52:02,0,5,"-75,31760269","-13,28259932",Atención ejecutada por Municipalidad,Municipalidad Provincial de Castrovirreyna,Local
+489,490,78786,2,ANCASH,218,SANTA,21801,CHIMBOTE,,,,,,28/10/2021,17:40:21,0,16,"-78,57484203","-9,08754709",Alerta válida,Municipalidad Provincial de Santa,Local
+490,491,71714,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,22/09/2021,17:55:26,0,1,"-76,15069463","-13,4109279",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+491,492,71716,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,22/09/2021,19:20:37,0,13,"-76,15052816","-13,41119946",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+492,493,80069,11,ICA,1101,ICA,110101,ICA,,,,,,06/11/2021,13:19:37,1,45,"-75,73701001","-14,05982641",Alerta válida,Municipalidad Provincial de Ica,Local
+493,494,45159,6,CAJAMARCA,609,SAN IGNACIO,60901,SAN IGNACIO,,,,,,28/05/2021,11:47:42,0,5,"-79,0045866","-5,1463854",Alerta no válida,Municipalidad Provincial de San Ignacio,Local
+494,495,50275,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,26/06/2021,13:23:58,44,1078,"-73,2537338","-3,76312302",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+495,496,50274,10,HUANUCO,1006,LEONCIO PRADO,100608,CASTILLO GRANDE,1,S,N,S,S,26/06/2021,09:54:01,17,412,"-76,00622282","-9,3000418",Atención ejecutada por Municipalidad,Municipalidad Distrital de Castillo Grande,Local
+496,497,81347,15,LIMA,1501,LIMA,150102,ANCON,,,,,,14/11/2021,08:53:17,0,0,"-77,13044136","-11,81613373",Alerta pendiente validación,Municipalidad Distrital de Ancon,Local
+497,498,51554,5,AYACUCHO,501,HUAMANGA,50116,ANDRES AVELINO CACERES DORREGARAY,1,S,S,S,,30/06/2021,15:47:37,123,2956,"-74,20748167","-13,16356833",Atención ejecutada por Municipalidad,Municipalidad Distrital de Andres Avelino Caceres Dorregaray,Local
+498,499,53825,15,LIMA,1505,CAÑETE,150502,ASIA,1,,,,,10/07/2021,07:49:51,2,50,"-76,5678808","-12,8011366",Alerta válida,Municipalidad Distrital de Asia,Local
+499,500,41314,15,LIMA,1501,LIMA,150106,CARABAYLLO,,,,,,19/04/2021,10:51:01,2,49,"-77,03427118","-11,89974419",Alerta no válida,Municipalidad Distrital de Carabayllo,Local
+500,501,45798,15,LIMA,1501,LIMA,150106,CARABAYLLO,,,,,,06/06/2021,14:21:56,0,18,"-77,0198242","-11,880535",Alerta no válida,Municipalidad Distrital de Carabayllo,Local
+501,502,65314,7,CALLAO,701,CALLAO,70103,CARMEN DE LA LEGUA REYNOSO,1,,,,,27/08/2021,08:29:31,0,0,"-77,09653882","-12,03961151",Alerta válida,Municipalidad Distrital de Carmen de La Legua Reynoso,Local
+502,503,45176,12,JUNIN,1201,HUANCAYO,120121,HUAYUCACHI,,,,,,28/05/2021,12:43:39,0,4,"-75,22461463","-12,13794326",Alerta no válida,Municipalidad Distrital de Huayucachi,Local
+503,504,55403,15,LIMA,1501,LIMA,150112,INDEPENDENCIA,1,,,,,18/07/2021,20:04:05,0,12,"-77,0588483","-11,9801487",Alerta válida,Municipalidad Distrital de Independencia,Local
+504,505,44837,2,ANCASH,201,HUARAZ,20105,INDEPENDENCIA,,,,,,18/05/2021,15:52:36,0,6,"-77,5362746","-9,50197006",Alerta no válida,Municipalidad Distrital de Independencia,Local
+505,506,51233,4,AREQUIPA,401,AREQUIPA,40109,MARIANO MELGAR,1,N,,,,29/06/2021,08:11:48,8,194,"-71,5011255","-16,3991934",Atención ejecutada por Municipalidad,Municipalidad Distrital de Mariano Melgar,Local
+506,507,77475,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,1,,,,,20/10/2021,13:07:59,0,1,"-78,52763552","-9,13173254",Alerta válida,Municipalidad Distrital de Nuevo Chimbote,Local
+507,508,56355,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,23/07/2021,22:29:59,2,59,"-71,9029876","-13,5329207",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+508,509,62754,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,18/08/2021,19:41:31,0,13,"-71,9029805","-13,5328476",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+509,510,41656,15,LIMA,1501,LIMA,150123,PACHACAMAC,,,,,,27/04/2021,13:40:49,0,0,"-76,85633138","-12,22781543",Alerta no válida,Municipalidad Distrital de Pachacamac,Local
+510,511,42915,15,LIMA,1501,LIMA,150123,PACHACAMAC,1,S,S,S,S,03/05/2021,14:39:27,8,192,"-76,86387617","-12,23109959",Atención ejecutada por Municipalidad,Municipalidad Distrital de Pachacamac,Local
+511,512,39395,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,S,N,S,N,20/03/2021,11:04:14,2,51,"-77,05095745","-12,07585417",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+512,513,39416,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,N,,,,21/03/2021,11:47:14,1,27,"-77,05138452","-12,07402613",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+513,514,39421,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,N,,,,21/03/2021,12:09:28,1,27,"-77,04442363","-12,07983928",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+514,515,51882,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,,,,,,02/07/2021,06:42:47,0,2,"-71,47904833","-16,408595",Alerta no válida,Municipalidad Distrital de Paucarpata,Local
+515,516,76210,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,,,,,,14/10/2021,10:57:58,0,0,"-71,50136833","-16,40895833",Alerta no válida,Municipalidad Distrital de Paucarpata,Local
+516,517,46761,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,10/06/2021,10:31:11,0,0,"-73,28190823","-3,78092787",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+517,518,56676,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,24/07/2021,13:59:09,1,44,"-73,27597172","-3,77118126",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+518,519,56689,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,25/07/2021,03:00:25,1,31,"-73,2990604","-3,7919988",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+519,520,46758,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,10/06/2021,10:21:08,41,997,"-73,28839476","-3,78482173",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+520,521,49962,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,25/06/2021,11:11:54,26,636,"-73,27372819","-3,75903612",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+521,522,56033,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,20/07/2021,11:51:49,1,35,"-73,27631375","-3,76978542",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+522,523,43553,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,07/05/2021,08:39:21,0,0,"-77,08557667","-12,02587333",Alerta no válida,Municipalidad Distrital de San Martin de Porres,Local
+523,524,53157,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,S,N,N,S,06/07/2021,13:30:34,1,45,"-77,06477","-12,03293",Atención programada por Municipalidad,Municipalidad Distrital de San Martin de Porres,Local
+524,525,75878,18,MOQUEGUA,1801,MARISCAL NIETO,180104,SAMEGUA,,,,,,13/10/2021,09:58:55,0,1,"-70,90675668","-17,18442179",Alerta no válida,Municipalidad Distrital de Samegua,Local
+525,526,75876,18,MOQUEGUA,1801,MARISCAL NIETO,180104,SAMEGUA,1,,,,,13/10/2021,09:52:56,0,1,"-70,9041943","-17,1827923",Alerta válida,Municipalidad Distrital de Samegua,Local
+526,527,53153,15,LIMA,1501,LIMA,150131,SAN ISIDRO,1,,,,,06/07/2021,07:45:45,0,1,"-77,0355356","-12,0991642",Alerta válida,Municipalidad Distrital de San Isidro,Local
+527,528,73003,13,LA LIBERTAD,1301,TRUJILLO,130108,POROTO,,,,,,27/09/2021,17:01:19,0,0,"-78,79564505","-8,0466903",Alerta no válida,Municipalidad Distrital de Poroto,Local
+528,529,72674,15,LIMA,1505,CAÑETE,150512,QUILMANA,,,,,,25/09/2021,20:31:53,1,37,"-76,38358","-12,951245",Alerta válida,Municipalidad Distrital de Quilmana,Local
+529,530,41958,15,LIMA,1501,LIMA,150133,SAN JUAN DE MIRAFLORES,1,S,N,S,S,28/04/2021,14:47:43,7,191,"-76,97673898","-12,17964153",Atención programada por Municipalidad,Municipalidad Distrital de San Juan de Miraflores,Local
+530,531,41313,15,LIMA,1501,LIMA,150137,SANTA ANITA,1,S,S,S,S,19/04/2021,10:50:57,0,0,"-76,9782267","-12,05476344",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+531,532,54775,7,CALLAO,701,CALLAO,70101,CALLAO,,,,,,15/07/2021,18:46:45,0,14,"-77,10076667","-12,02360667",Alerta válida,Municipalidad Provincial de Callao,Local
+532,533,53797,5,AYACUCHO,502,CANGALLO,50201,CANGALLO,1,S,N,N,S,09/07/2021,09:39:21,3,79,"-74,1482435","-13,63019437",Atención programada por Municipalidad,Municipalidad Provincial de Cangallo,Local
+533,534,45161,11,ICA,1102,CHINCHA,110207,PUEBLO NUEVO,,,,,,28/05/2021,11:47:54,0,5,"-76,12684756","-13,39703512",Alerta no válida,Municipalidad Distrital de Pueblo Nuevo,Local
+534,535,68206,11,ICA,1102,CHINCHA,110210,SUNAMPE,1,,,,,10/09/2021,18:40:30,2,62,"-76,13848698","-13,42396351",Alerta válida,Municipalidad Distrital de Sunampe,Local
+535,536,64033,14,LAMBAYEQUE,1401,CHICLAYO,140101,CHICLAYO,1,N,,,,22/08/2021,13:25:50,22,531,"-79,8587252","-6,76966077",Atención ejecutada por Municipalidad,Municipalidad Provincial de Chiclayo,Local
+536,537,53798,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,09/07/2021,09:46:29,0,1,"-71,95972965","-13,51804462",Alerta válida,Municipalidad Provincial de Cusco,Local
+537,538,69477,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,14/09/2021,18:58:09,0,13,"-71,9458849","-13,524499",Alerta válida,Municipalidad Provincial de Cusco,Local
+538,539,57634,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,N,S,S,28/07/2021,09:34:55,20,487,"-76,98753378","-11,93241202",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+539,540,60513,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,N,,,,09/08/2021,10:45:23,15,361,"-76,972748","-11,9357451",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+540,541,61153,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,N,S,S,12/08/2021,09:46:28,5,127,"-76,98764775","-11,93246923",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+541,542,64675,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,S,S,,25/08/2021,22:54:26,6,153,"-76,98759774","-11,93244799",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+542,543,41634,7,CALLAO,701,CALLAO,70104,LA PERLA,1,N,S,S,S,26/04/2021,10:16:31,5,130,"-77,1138185","-12,0762904",Atención ejecutada por Municipalidad,Municipalidad Distrital de La Perla,Local
+543,544,41317,15,LIMA,1501,LIMA,150116,LINCE,,,,,,19/04/2021,10:54:13,2,49,"-77,04072206","-12,08804662",Alerta no válida,Municipalidad Distrital de Lince,Local
+544,545,41957,15,LIMA,1501,LIMA,150116,LINCE,,,,,,28/04/2021,14:26:35,0,2,"-77,03245336","-12,08490845",Alerta no válida,Municipalidad Distrital de Lince,Local
+545,546,42273,15,LIMA,1501,LIMA,150103,ATE,,,,,,29/04/2021,13:19:43,0,0,"-76,92006688","-12,02558794",Alerta no válida,Municipalidad Distrital de Ate,Local
+546,547,62434,15,LIMA,1501,LIMA,150103,ATE,1,,,,,17/08/2021,13:34:35,0,0,"-76,9397641","-12,0513421",Alerta válida,Municipalidad Distrital de Ate,Local
+547,548,49983,13,LA LIBERTAD,1301,TRUJILLO,130111,VICTOR LARCO HERRERA,,,,,,25/06/2021,15:44:53,0,2,"-79,03583191","-8,13025387",Alerta no válida,Municipalidad Distrital de Victor Larco Herrera,Local
+548,549,78483,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,,,,,,27/10/2021,13:36:59,0,3,"-76,96045143","-12,23407174",Alerta válida,Municipalidad Distrital de Villa El Salvador,Local
+549,550,51574,15,LIMA,1501,LIMA,150143,VILLA MARIA DEL TRIUNFO,,,,,,01/07/2021,14:30:40,0,4,"-76,95911554","-12,15603719",Alerta no válida,Municipalidad Distrital de Villa Maria del Triunfo,Local
+550,551,67559,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,,,,,,08/09/2021,12:02:00,0,3,"-78,52340717","-6,6818385",Alerta no válida,Municipalidad Provincial de Hualgayoc,Local
+551,552,77811,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,,,,,,22/10/2021,08:24:35,0,1,"-78,5172743","-6,6786675",Alerta válida,Municipalidad Provincial de Hualgayoc,Local
+552,553,49646,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,1,S,N,S,S,24/06/2021,20:37:25,115,2779,"-74,96529973","-12,78656381",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huancavelica,Local
+553,554,61495,15,LIMA,1508,HUAURA,150801,HUACHO,1,,,,,14/08/2021,12:47:32,1,44,"-77,5995591","-11,1292875",Alerta válida,Municipalidad Provincial de Huaura,Local
+554,555,50003,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,25/06/2021,16:17:59,0,2,"-74,86284167","-12,39764667",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+555,556,68199,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,10:21:35,0,2,"-79,0405907","-8,1105422",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+556,557,69155,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,13/09/2021,10:35:11,0,2,"-79,0146769","-8,1070045",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+557,558,69159,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,13/09/2021,11:10:30,0,1,"-79,0170331","-8,1038213",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+558,559,69160,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,13/09/2021,11:56:24,0,0,"-79,0048335","-8,0955256",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+559,560,70132,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,17/09/2021,08:28:49,0,2,"-79,0388304","-8,0897092",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+560,561,72996,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,27/09/2021,08:08:30,0,2,"-79,0411968","-8,1086713",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+561,562,72999,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,27/09/2021,08:27:24,0,1,"-79,0411966","-8,1085885",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+562,563,53156,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,06/07/2021,11:03:11,0,2,"-79,0459666","-8,08542",Alerta válida,Municipalidad Provincial de Trujillo,Local
+563,564,68193,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,10/09/2021,10:02:34,0,2,"-79,0409222","-8,10864512",Alerta válida,Municipalidad Provincial de Trujillo,Local
+564,565,68194,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,10/09/2021,10:03:04,0,2,"-79,0411344","-8,1085135",Alerta válida,Municipalidad Provincial de Trujillo,Local
+565,566,73637,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,29/09/2021,10:55:11,0,1,"-79,00119097","-8,11229033",Alerta válida,Municipalidad Provincial de Trujillo,Local
+566,567,52523,24,TUMBES,2401,TUMBES,240101,TUMBES,1,,,,,04/07/2021,17:31:18,0,15,"-80,44559995","-3,55698465",Alerta válida,Municipalidad Provincial de Tumbes,Local
+567,568,41954,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,1,S,N,S,S,28/04/2021,13:03:20,0,4,"-76,9892028","-12,16205425",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santiago de Surco,Local
+568,569,49978,13,LA LIBERTAD,1308,PATAZ,130801,TAYABAMBA,,,,,,25/06/2021,15:39:26,0,2,"-77,29801012","-8,27687822",Alerta no válida,Municipalidad Provincial de Pataz,Local
+569,570,43234,15,LIMA,1501,LIMA,150118,LURIGANCHO,,,,,,06/05/2021,11:57:09,0,1,"-76,69600142","-11,94244126",Alerta no válida,Municipalidad Distrital de Lurigancho,Local
+570,571,72692,12,JUNIN,1203,CHANCHAMAYO,120302,PERENE,1,S,N,S,N,26/09/2021,22:19:06,16,395,"-74,880277","-10,9218276",Atención ejecutada por Municipalidad,Municipalidad Distrital de Perene,Local
+571,572,68833,15,LIMA,1502,BARRANCA,150204,SUPE,1,S,N,S,S,12/09/2021,08:36:12,39,941,"-77,7038128","-10,8564251",Atención ejecutada por Municipalidad,Municipalidad Distrital de Supe,Local
+572,573,56995,4,AREQUIPA,401,AREQUIPA,40101,AREQUIPA,1,S,S,S,S,26/07/2021,14:57:21,1,42,"-71,5612971","-16,4309707",Atención ejecutada por Municipalidad,Municipalidad Provincial de Arequipa,Local
+573,574,51235,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,29/06/2021,16:42:25,0,16,"-77,05781414","-12,05140765",Alerta válida,Municipalidad Provincial de Lima,Local
+574,575,45172,11,ICA,1103,NASCA,110301,NASCA,,,,,,28/05/2021,12:01:38,0,5,"-74,92602173","-14,83868829",Alerta no válida,Municipalidad Provincial de Nasca,Local
+575,576,49314,10,HUANUCO,1008,PACHITEA,100801,PANAO,,,,,,21/06/2021,16:43:58,0,1,"-75,99106333","-9,898225",Alerta no válida,Municipalidad Provincial de Pachitea,Local
+576,577,44839,21,PUNO,2101,PUNO,210101,PUNO,,,,,,18/05/2021,15:56:08,0,6,"-70,03145757","-15,83710111",Alerta no válida,Municipalidad Provincial de Puno,Local
+577,578,55077,15,LIMA,1501,LIMA,150108,CHORRILLOS,1,N,,S,S,16/07/2021,13:09:44,20,484,"-77,020545","-12,1958306",Atención ejecutada por Municipalidad,Municipalidad Distrital de Chorrillos,Local
+578,579,57314,15,LIMA,1501,LIMA,150108,CHORRILLOS,1,S,N,S,S,27/07/2021,11:14:07,70,1681,"-76,99615833","-12,19901167",Atención ejecutada por Municipalidad,Municipalidad Distrital de Chorrillos,Local
+579,580,44846,12,JUNIN,1201,HUANCAYO,120125,PILCOMAYO,,,,,,18/05/2021,16:05:03,0,6,"-75,2636011","-12,05497116",Alerta no válida,Municipalidad Distrital de Pilcomayo,Local
+580,581,57635,11,ICA,1102,CHINCHA,110201,CHINCHA ALTA,1,,,,,28/07/2021,15:42:15,1,41,"-76,1312114","-13,41879695",Alerta válida,Municipalidad Provincial de Chincha,Local
+581,582,72354,11,ICA,1102,CHINCHA,110201,CHINCHA ALTA,1,,,,,23/09/2021,12:09:55,0,1,"-76,13205839","-13,44035904",Alerta válida,Municipalidad Provincial de Chincha,Local
+582,583,81027,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,,,,,,12/11/2021,20:44:06,0,0,"-79,00090884","-8,07801373",Alerta pendiente validación,Municipalidad Distrital de El Porvenir,Local
+583,584,70435,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,1,,,,,18/09/2021,16:37:38,1,40,"-79,00162655","-8,07819636",Alerta válida,Municipalidad Distrital de El Porvenir,Local
+584,585,58274,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,1,S,N,S,S,30/07/2021,17:58:13,20,495,"-79,00157034","-8,07822859",Atención ejecutada por Municipalidad,Municipalidad Distrital de El Porvenir,Local
+585,586,47075,15,LIMA,1501,LIMA,150122,MIRAFLORES,,,,,,11/06/2021,13:56:21,0,0,"-77,01455567","-12,12186672",Alerta no válida,Municipalidad Distrital de Miraflores,Local
+586,587,58593,15,LIMA,1501,LIMA,150122,MIRAFLORES,1,,,,,31/07/2021,11:47:08,1,46,"-77,02765561","-12,12374002",Alerta válida,Municipalidad Distrital de Miraflores,Local
+587,588,59233,18,MOQUEGUA,1801,MARISCAL NIETO,180101,MOQUEGUA,1,N,,,,03/08/2021,09:04:21,17,408,"-70,9400455","-17,1931287",Atención ejecutada por Municipalidad,Municipalidad Provincial de Mariscal Nieto,Local
+588,589,59234,18,MOQUEGUA,1801,MARISCAL NIETO,180101,MOQUEGUA,1,N,,S,S,03/08/2021,09:10:14,78,1874,"-70,9409856","-17,1922768",Atención ejecutada por Municipalidad,Municipalidad Provincial de Mariscal Nieto,Local
+589,590,45170,15,LIMA,1505,CAÑETE,150501,SAN VICENTE DE CAÑETE,,,,,,28/05/2021,12:01:09,0,5,"-76,38665668","-13,0756932",Alerta no válida,Municipalidad Provincial de Cañete,Local
+590,591,61473,15,LIMA,1505,CAÑETE,150501,SAN VICENTE DE CAÑETE,1,S,N,S,S,13/08/2021,12:21:46,67,1629,"-76,3883957","-13,0828489",Atención ejecutada por Municipalidad,Municipalidad Provincial de Cañete,Local
+591,592,64356,21,PUNO,2104,CHUCUITO,210403,HUACULLANI,,,,,,23/08/2021,13:52:56,0,1,"-69,32315925","-16,62999881",Alerta no válida,Municipalidad Distrital de Huacullani,Local
+592,593,64357,21,PUNO,2104,CHUCUITO,210403,HUACULLANI,,,,,,23/08/2021,13:56:12,0,1,"-69,3220004","-16,6307896",Alerta no válida,Municipalidad Distrital de Huacullani,Local
+593,594,52525,2,ANCASH,218,SANTA,21801,CHIMBOTE,1,,,,,04/07/2021,21:55:33,0,11,"-78,59106132","-9,0735965",Alerta válida,Municipalidad Provincial de Santa,Local
+594,595,68513,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,11/09/2021,15:40:11,1,41,"-76,15604885","-13,4063801",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+595,596,71717,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,22/09/2021,19:22:30,0,13,"-76,15137849","-13,41032399",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+596,597,76514,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,15/10/2021,10:56:21,0,1,"-76,15738524","-13,41089276",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+597,598,49979,11,ICA,1101,ICA,110101,ICA,,,,,,25/06/2021,15:42:28,0,2,"-75,72987984","-14,06659353",Alerta no válida,Municipalidad Provincial de Ica,Local
+598,599,80067,11,ICA,1101,ICA,110101,ICA,,,,,,06/11/2021,13:16:21,1,45,"-75,7350351","-14,06041264",Alerta válida,Municipalidad Provincial de Ica,Local
+599,600,80068,11,ICA,1101,ICA,110101,ICA,,,,,,06/11/2021,13:17:36,1,45,"-75,73585867","-14,06012343",Alerta válida,Municipalidad Provincial de Ica,Local
+600,601,61503,16,LORETO,1601,MAYNAS,160112,BELEN,,,,,,14/08/2021,21:34:13,1,35,"-73,26481709","-3,77201778",Alerta no válida,Municipalidad Distrital de Belen,Local
+601,602,60837,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,10/08/2021,10:46:39,0,1,"-73,27059739","-3,77623269",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+602,603,49639,15,LIMA,1501,LIMA,150110,COMAS,,,,,,24/06/2021,11:46:25,0,2,"-77,0474812","-11,8989016",Alerta no válida,Municipalidad Distrital de Comas,Local
+603,604,43235,15,LIMA,1501,LIMA,150106,CARABAYLLO,1,S,N,S,S,06/05/2021,12:00:42,0,4,"-77,03408423","-11,90064192",Atención ejecutada por Municipalidad,Municipalidad Distrital de Carabayllo,Local
+604,605,49986,20,PIURA,2001,PIURA,200104,CASTILLA,,,,,,25/06/2021,15:45:31,0,2,"-80,61952524","-5,19587649",Alerta no válida,Municipalidad Distrital de Castilla,Local
+605,606,78806,1,AMAZONAS,107,UTCUBAMBA,10704,EL MILAGRO,,,,,,29/10/2021,16:27:22,4,114,"-78,56133212","-5,63621164",Alerta no válida,Municipalidad Distrital de El Milagro,Local
+606,607,70116,1,AMAZONAS,107,UTCUBAMBA,10704,EL MILAGRO,1,,,,,16/09/2021,17:03:59,0,0,"-78,56073753","-5,63592604",Alerta válida,Municipalidad Distrital de El Milagro,Local
+607,608,49345,12,JUNIN,1201,HUANCAYO,120114,EL TAMBO,,,,,,23/06/2021,10:32:43,0,4,"-75,2295903","-12,046085",Alerta no válida,Municipalidad Distrital de El Tambo,Local
+608,609,79747,12,JUNIN,1201,HUANCAYO,120114,EL TAMBO,,,,,,02/11/2021,10:41:37,0,24,"-75,226636","-12,0345203",Alerta no válida,Municipalidad Distrital de El Tambo,Local
+609,610,55402,15,LIMA,1501,LIMA,150112,INDEPENDENCIA,1,,,,,18/07/2021,19:54:16,0,13,"-77,05701","-11,98605333",Alerta válida,Municipalidad Distrital de Independencia,Local
+610,611,56051,15,LIMA,1501,LIMA,150117,LOS OLIVOS,1,,,,,21/07/2021,16:37:25,0,0,"-77,07686","-11,96243333",Alerta válida,Municipalidad Distrital de Los Olivos,Local
+611,612,54776,15,LIMA,1501,LIMA,150119,LURIN,,,,,,15/07/2021,18:54:56,0,13,"-76,86396266","-12,27849347",Alerta no válida,Municipalidad Distrital de Lurin,Local
+612,613,46437,20,PIURA,2001,PIURA,200109,LA ARENA,,S,N,N,S,09/06/2021,18:14:35,1,32,"-80,755805","-5,32022",Atención programada por Municipalidad,Municipalidad Distrital de La Arena,Local
+613,614,52513,22,SAN MARTIN,2209,SAN MARTIN,220910,MORALES,,,,,,04/07/2021,07:31:53,1,25,"-76,38662151","-6,4626217",Alerta válida,Municipalidad Distrital de Morales,Local
+614,615,77473,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,1,,,,,20/10/2021,12:50:52,0,0,"-78,52058409","-9,13833764",Alerta válida,Municipalidad Distrital de Nuevo Chimbote,Local
+615,616,56673,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,1,N,,,,24/07/2021,09:59:22,80,1925,"-78,51049703","-9,1147385",Atención ejecutada por Municipalidad,Municipalidad Distrital de Nuevo Chimbote,Local
+616,617,61499,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,1,N,,,,14/08/2021,17:45:22,58,1413,"-78,5104179","-9,1142912",Atención ejecutada por Municipalidad,Municipalidad Distrital de Nuevo Chimbote,Local
+617,618,57316,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,,,,,,27/07/2021,17:50:17,0,0,"-71,9033596","-13,5345466",Alerta no válida,Municipalidad Distrital de San Jeronimo,Local
+618,619,59874,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,07/08/2021,16:11:45,1,43,"-71,9029968","-13,5329228",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+619,620,41651,15,LIMA,1501,LIMA,150123,PACHACAMAC,1,S,S,S,S,27/04/2021,11:33:18,1,24,"-76,8657808","-12,22591161",Atención ejecutada por Municipalidad,Municipalidad Distrital de Pachacamac,Local
+620,621,39412,15,LIMA,1501,LIMA,150113,JESUS MARIA,,,,,,21/03/2021,11:14:22,0,24,"-77,04875412","-12,07738856",Alerta no válida,Municipalidad Distrital de Jesus Maria,Local
+621,622,39413,15,LIMA,1501,LIMA,150113,JESUS MARIA,,,,,,21/03/2021,11:27:14,0,24,"-77,04857976","-12,07645092",Alerta no válida,Municipalidad Distrital de Jesus Maria,Local
+622,623,39409,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,S,N,S,N,21/03/2021,09:47:32,1,29,"-77,05177761","-12,08936245",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+623,624,51879,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,,,,,,02/07/2021,06:39:06,0,2,"-71,47831","-16,40810833",Alerta no válida,Municipalidad Distrital de Paucarpata,Local
+624,625,51881,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,,,,,02/07/2021,06:40:53,0,2,"-71,47857333","-16,407955",Alerta válida,Municipalidad Distrital de Paucarpata,Local
+625,626,50595,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,N,,,,27/06/2021,15:02:24,130,3140,"-71,50981333","-16,41696",Atención ejecutada por Municipalidad,Municipalidad Distrital de Paucarpata,Local
+626,627,56677,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,24/07/2021,13:59:56,1,44,"-73,27694416","-3,77303023",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+627,628,43554,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,07/05/2021,08:46:24,0,0,"-77,08431333","-12,00902",Alerta no válida,Municipalidad Distrital de San Martin de Porres,Local
+628,629,48068,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,,,,,17/06/2021,16:06:12,0,0,"-77,06975526","-12,01068807",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+629,630,70433,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,,,,,18/09/2021,08:34:10,1,48,"-77,0835521","-11,9764672",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+630,631,75877,18,MOQUEGUA,1801,MARISCAL NIETO,180104,SAMEGUA,1,N,,,S,13/10/2021,09:54:58,1,28,"-70,9054515","-17,1844287",Atención programada por Municipalidad,Municipalidad Distrital de Samegua,Local
+631,632,41655,15,LIMA,1501,LIMA,150133,SAN JUAN DE MIRAFLORES,,,,,,27/04/2021,12:31:07,0,0,"-76,96349535","-12,16321069",Alerta no válida,Municipalidad Distrital de San Juan de Miraflores,Local
+632,633,55398,15,LIMA,1501,LIMA,150133,SAN JUAN DE MIRAFLORES,,,,,,18/07/2021,14:17:27,0,18,"-76,97234971","-12,19106732",Alerta no válida,Municipalidad Distrital de San Juan de Miraflores,Local
+633,634,41654,15,LIMA,1501,LIMA,150133,SAN JUAN DE MIRAFLORES,1,,,,,27/04/2021,12:29:56,0,0,"-76,9634945","-12,16321292",Alerta válida,Municipalidad Distrital de San Juan de Miraflores,Local
+634,635,76517,15,LIMA,1501,LIMA,150133,SAN JUAN DE MIRAFLORES,1,,,,,15/10/2021,15:14:19,0,0,"-76,98162833","-12,15760667",Alerta válida,Municipalidad Distrital de San Juan de Miraflores,Local
+635,636,63397,15,LIMA,1501,LIMA,150137,SANTA ANITA,,,,,,20/08/2021,16:39:13,0,0,"-76,97784231","-12,05449869",Alerta no válida,Municipalidad Distrital de Santa Anita,Local
+636,637,40673,15,LIMA,1501,LIMA,150137,SANTA ANITA,1,S,S,S,,15/04/2021,11:56:48,0,0,"-76,97467493","-12,05368051",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+637,638,40674,15,LIMA,1501,LIMA,150137,SANTA ANITA,1,S,S,S,S,15/04/2021,16:56:12,0,0,"-76,97840002","-12,0546278",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+638,639,42290,15,LIMA,1501,LIMA,150137,SANTA ANITA,1,S,S,S,S,30/04/2021,15:41:40,0,0,"-76,96479645","-12,03414076",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+639,640,49980,15,LIMA,1501,LIMA,150137,SANTA ANITA,1,S,S,S,S,25/06/2021,15:44:13,0,0,"-76,97906032","-12,05481175",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santa Anita,Local
+640,641,54130,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,12/07/2021,07:19:50,0,3,"-77,10101833","-12,02375",Alerta válida,Municipalidad Provincial de Callao,Local
+641,642,54433,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,13/07/2021,07:47:14,0,2,"-77,10096667","-12,02368167",Alerta válida,Municipalidad Provincial de Callao,Local
+642,643,59553,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,05/08/2021,08:16:12,0,2,"-77,101065","-12,02362667",Alerta válida,Municipalidad Provincial de Callao,Local
+643,644,45175,8,CUSCO,801,CUSCO,80101,CUSCO,,,,,,28/05/2021,12:42:24,0,4,"-71,98129566","-13,5179457",Alerta no válida,Municipalidad Provincial de Cusco,Local
+644,645,70434,8,CUSCO,801,CUSCO,80101,CUSCO,,,,,,18/09/2021,14:46:53,1,42,"-71,97629167","-13,49958",Alerta no válida,Municipalidad Provincial de Cusco,Local
+645,646,52193,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,03/07/2021,11:45:21,1,45,"-71,9553588","-13,5191416",Alerta válida,Municipalidad Provincial de Cusco,Local
+646,647,52521,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,04/07/2021,16:58:18,0,16,"-71,97429051","-13,5251431",Alerta válida,Municipalidad Provincial de Cusco,Local
+647,648,53800,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,09/07/2021,09:56:07,0,1,"-71,95971211","-13,51823361",Alerta válida,Municipalidad Provincial de Cusco,Local
+648,649,55404,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,18/07/2021,21:27:26,0,11,"-71,9520764","-13,5214609",Alerta válida,Municipalidad Provincial de Cusco,Local
+649,650,64354,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,23/08/2021,13:18:07,0,1,"-71,95970359","-13,51820047",Alerta válida,Municipalidad Provincial de Cusco,Local
+650,651,49329,10,HUANUCO,1002,AMBO,100201,AMBO,1,S,N,N,S,22/06/2021,08:29:05,3,73,"-76,20308245","-10,12842584",Atención ejecutada por Municipalidad,Municipalidad Provincial de Ambo,Local
+651,652,49330,10,HUANUCO,1002,AMBO,100201,AMBO,1,S,N,S,S,22/06/2021,08:29:14,3,73,"-76,20306203","-10,12942637",Atención ejecutada por Municipalidad,Municipalidad Provincial de Ambo,Local
+652,653,49335,10,HUANUCO,1002,AMBO,100201,AMBO,1,S,N,S,S,22/06/2021,08:40:55,3,73,"-76,20535625","-10,12477386",Atención ejecutada por Municipalidad,Municipalidad Provincial de Ambo,Local
+653,654,45160,15,LIMA,1502,BARRANCA,150201,BARRANCA,,,,,,28/05/2021,11:47:35,0,5,"-77,75619778","-10,75464273",Alerta no válida,Municipalidad Provincial de Barranca,Local
+654,655,44844,6,CAJAMARCA,601,CAJAMARCA,60101,CAJAMARCA,,,,,,18/05/2021,16:03:38,0,6,"-78,5267021","-7,1439993",Alerta no válida,Municipalidad Provincial de Cajamarca,Local
+655,656,58273,6,CAJAMARCA,601,CAJAMARCA,60101,CAJAMARCA,1,S,N,S,S,30/07/2021,14:18:16,46,1122,"-78,52408037","-7,14371952",Atención ejecutada por Municipalidad,Municipalidad Provincial de Cajamarca,Local
+656,657,53158,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,S,S,,06/07/2021,15:03:48,8,210,"-77,0133502","-12,0182168",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+657,658,56692,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,S,S,,25/07/2021,16:21:25,22,552,"-76,99684167","-12,00806",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+658,659,58930,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,N,S,S,02/08/2021,23:31:52,14,353,"-76,98755423","-11,93245472",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+659,660,41320,15,LIMA,1501,LIMA,150116,LINCE,,,,,,19/04/2021,10:58:45,2,48,"-77,04121036","-12,08843103",Alerta no válida,Municipalidad Distrital de Lince,Local
+660,661,41636,15,LIMA,1501,LIMA,150116,LINCE,1,N,,,,26/04/2021,12:44:39,0,4,"-77,03749324","-12,08272425",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lince,Local
+661,662,42916,15,LIMA,1501,LIMA,150116,LINCE,1,N,,,,03/05/2021,14:47:37,0,4,"-77,03805493","-12,08269431",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lince,Local
+662,663,79107,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,,,,,,30/10/2021,12:31:12,3,94,"-76,91840929","-12,22581394",Alerta no válida,Municipalidad Distrital de Villa El Salvador,Local
+663,664,53805,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,1,,,,,09/07/2021,11:22:54,0,0,"-76,93795949","-12,19401063",Alerta válida,Municipalidad Distrital de Villa El Salvador,Local
+664,665,62753,15,LIMA,1501,LIMA,150143,VILLA MARIA DEL TRIUNFO,1,,,,,18/08/2021,14:59:04,0,1,"-76,92491108","-12,21112761",Alerta válida,Municipalidad Distrital de Villa Maria del Triunfo,Local
+665,666,44195,15,LIMA,1501,LIMA,150143,VILLA MARIA DEL TRIUNFO,1,N,,,,13/05/2021,17:24:48,0,0,"-76,947229","-12,18401888",Atención ejecutada por Municipalidad,Municipalidad Distrital de Villa Maria del Triunfo,Local
+666,667,44513,15,LIMA,1501,LIMA,150143,VILLA MARIA DEL TRIUNFO,1,N,,,,14/05/2021,16:15:20,2,64,"-76,94117502","-12,18009704",Atención ejecutada por Municipalidad,Municipalidad Distrital de Villa Maria del Triunfo,Local
+667,668,67563,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,,S,08/09/2021,12:11:29,34,816,"-78,52253899","-6,67914147",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+668,669,69800,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,,15/09/2021,09:41:42,37,894,"-78,5222132","-6,6785169",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+669,670,75237,5,AYACUCHO,501,HUAMANGA,50101,AYACUCHO,1,N,N,N,S,11/10/2021,16:30:43,31,764,"-74,22746574","-13,15434103",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huamanga,Local
+670,671,69475,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,,,,,,14/09/2021,10:08:45,0,0,"-74,97631179","-12,78862535",Alerta no válida,Municipalidad Provincial de Huancavelica,Local
+671,672,74915,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,1,N,,,,10/10/2021,16:03:38,7,192,"-74,979195","-12,78761333",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huancavelica,Local
+672,673,49972,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,25/06/2021,12:15:08,0,0,"-74,86762167","-12,39665667",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+673,674,50914,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,28/06/2021,12:02:41,0,0,"-74,8637707","-12,3987518",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+674,675,49973,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,1,N,N,S,S,25/06/2021,12:22:01,132,3192,"-74,8661421","-12,3984962",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tayacaja,Local
+675,676,70130,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,17/09/2021,08:14:10,0,0,"-79,0383263","-8,0903922",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+676,677,73634,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,29/09/2021,09:00:32,0,1,"-79,0176134","-8,1157824",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+677,678,73635,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,29/09/2021,09:01:06,0,1,"-79,0176112","-8,1157665",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+678,679,55393,8,CUSCO,813,URUBAMBA,81301,URUBAMBA,,S,N,S,S,18/07/2021,03:36:07,57,1376,"-72,11830196","-13,3054582",Atención ejecutada por Municipalidad,Municipalidad Provincial de Urubamba,Local
+679,680,42593,15,LIMA,1501,LIMA,150120,MAGDALENA DEL MAR,1,S,S,S,S,01/05/2021,07:16:32,3,75,"-77,06068137","-12,10238985",Atención ejecutada por Municipalidad,Municipalidad Distrital de Magdalena del Mar,Local
+680,681,45799,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,06/06/2021,15:30:54,0,17,"-77,0118069","-12,1427678",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+681,682,61476,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,13/08/2021,19:26:36,2,61,"-76,97490277","-12,12780973",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+682,683,78484,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,27/10/2021,20:49:57,0,14,"-76,99576877","-12,12903673",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+683,684,41330,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,1,S,S,S,,21/04/2021,13:21:28,0,21,"-76,99505716","-12,12961602",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santiago de Surco,Local
+684,685,58920,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,1,S,N,S,S,01/08/2021,17:53:26,1,46,"-76,98833666","-12,1393793",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santiago de Surco,Local
+685,686,43233,15,LIMA,1501,LIMA,150118,LURIGANCHO,,N,,,,06/05/2021,11:47:52,6,146,"-76,69618213","-11,94223154",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lurigancho,Local
+686,687,51572,15,LIMA,1501,LIMA,150118,LURIGANCHO,1,S,S,S,S,01/07/2021,14:21:21,112,2691,"-76,7101528","-11,9432362",Atención ejecutada por Municipalidad,Municipalidad Distrital de Lurigancho,Local
+687,688,49638,10,HUANUCO,1010,LAURICOCHA,101001,JESUS,1,N,N,N,S,24/06/2021,10:58:31,104,2518,"-76,63184391","-10,07549996",Atención ejecutada por Municipalidad,Municipalidad Provincial de Lauricocha,Local
+688,689,45155,10,HUANUCO,1006,LEONCIO PRADO,100601,RUPA-RUPA,,,,,,28/05/2021,11:44:32,0,5,"-76,00010435","-9,306712",Alerta no válida,Municipalidad Provincial de Leoncio Prado,Local
+689,690,56690,15,LIMA,1501,LIMA,150101,LIMA,,,,,,25/07/2021,08:03:42,1,25,"-77,07691241","-12,06100163",Alerta no válida,Municipalidad Provincial de Lima,Local
+690,691,51885,16,LORETO,1601,MAYNAS,160101,IQUITOS,1,,,,,02/07/2021,12:35:42,0,1,"-73,25061791","-3,73314167",Alerta válida,Municipalidad Provincial de Maynas,Local
+691,692,69163,16,LORETO,1601,MAYNAS,160101,IQUITOS,1,,,,,13/09/2021,19:30:08,0,13,"-73,25884","-3,73179",Alerta válida,Municipalidad Provincial de Maynas,Local
+692,693,50000,22,SAN MARTIN,2201,MOYOBAMBA,220101,MOYOBAMBA,,,,,,25/06/2021,15:59:05,0,2,"-76,96505576","-6,03393427",Alerta no válida,Municipalidad Provincial de Moyobamba,Local
+693,694,49985,13,LA LIBERTAD,1306,OTUZCO,130601,OTUZCO,,,,,,25/06/2021,15:44:58,0,2,"-78,56528976","-7,90235024",Alerta no válida,Municipalidad Provincial de Otuzco,Local
+694,695,46435,10,HUANUCO,1008,PACHITEA,100801,PANAO,,,,,,09/06/2021,16:05:33,0,1,"-75,9940184","-9,8974815",Alerta válida,Municipalidad Provincial de Pachitea,Local
+695,696,56693,12,JUNIN,1201,HUANCAYO,120125,PILCOMAYO,1,,,,,25/07/2021,17:27:43,0,16,"-75,25327","-12,04926167",Alerta válida,Municipalidad Distrital de Pilcomayo,Local
+696,697,59253,19,PASCO,1901,PASCO,190101,CHAUPIMARCA,,,,,,04/08/2021,17:11:59,0,1,"-76,2573714","-10,6863348",Alerta no válida,Municipalidad Provincial de Pasco,Local
+697,698,61793,13,LA LIBERTAD,1301,TRUJILLO,130102,EL PORVENIR,1,S,N,S,S,15/08/2021,09:02:20,4,120,"-79,00167089","-8,07819419",Atención ejecutada por Municipalidad,Municipalidad Distrital de El Porvenir,Local
+698,699,46433,15,LIMA,1501,LIMA,150122,MIRAFLORES,,,,,,09/06/2021,12:45:52,0,0,"-77,01466941","-12,12017439",Alerta no válida,Municipalidad Distrital de Miraflores,Local
+699,700,47713,15,LIMA,1501,LIMA,150122,MIRAFLORES,,,,,,14/06/2021,21:31:37,0,11,"-77,01314609","-12,12077357",Alerta no válida,Municipalidad Distrital de Miraflores,Local
+700,701,59236,4,AREQUIPA,401,AREQUIPA,40104,CERRO COLORADO,1,,,,,03/08/2021,16:36:12,0,2,"-71,55495181","-16,37756174",Alerta válida,Municipalidad Distrital de Cerro Colorado,Local
+701,702,54772,22,SAN MARTIN,2209,SAN MARTIN,220901,TARAPOTO,1,S,S,S,,15/07/2021,11:10:38,102,2471,"-76,36960757","-6,48080068",Atención ejecutada por Municipalidad,Municipalidad Provincial de San Martin,Local
+702,703,71075,22,SAN MARTIN,2209,SAN MARTIN,220901,TARAPOTO,1,S,S,S,,20/09/2021,09:49:30,15,361,"-76,3736485","-6,4748508",Atención ejecutada por Municipalidad,Municipalidad Provincial de San Martin,Local
+703,704,66274,12,JUNIN,1207,TARMA,120706,PALCA,1,,,,,02/09/2021,11:36:51,0,6,"-75,5657194","-11,3449785",Alerta válida,Municipalidad Distrital de Palca,Local
+704,705,50915,9,HUANCAVELICA,904,CASTROVIRREYNA,90401,CASTROVIRREYNA,1,S,S,S,,28/06/2021,12:19:24,70,1681,"-75,31737194","-13,28181327",Atención ejecutada por Municipalidad,Municipalidad Provincial de Castrovirreyna,Local
+705,706,49996,17,MADRE DE DIOS,1701,TAMBOPATA,170101,TAMBOPATA,,,,,,25/06/2021,15:56:46,0,2,"-69,20109862","-12,60103746",Alerta no válida,Municipalidad Provincial de Tambopata,Local
+706,707,52526,2,ANCASH,218,SANTA,21801,CHIMBOTE,1,,,,,04/07/2021,21:55:46,0,11,"-78,59102619","-9,07369972",Alerta válida,Municipalidad Provincial de Santa,Local
+707,708,76513,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,15/10/2021,10:54:44,0,1,"-76,15755975","-13,41127515",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+708,709,61500,16,LORETO,1601,MAYNAS,160112,BELEN,,,,,,14/08/2021,18:39:34,1,38,"-73,246988","-3,7621965",Alerta no válida,Municipalidad Distrital de Belen,Local
+709,710,49954,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,25/06/2021,10:43:16,46,1105,"-73,2682044","-3,77462953",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+710,711,60836,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,10/08/2021,10:45:10,0,1,"-73,27206916","-3,77680691",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+711,712,54116,9,HUANCAVELICA,901,HUANCAVELICA,90118,ASCENSION,,,,,,11/07/2021,11:08:04,0,23,"-74,97863246","-12,78535022",Alerta no válida,Municipalidad Distrital de Ascension,Local
+712,713,63714,9,HUANCAVELICA,901,HUANCAVELICA,90118,ASCENSION,,,,,,21/08/2021,11:45:27,1,45,"-74,9821163","-12,7837656",Alerta no válida,Municipalidad Distrital de Ascension,Local
+713,714,48051,15,LIMA,1501,LIMA,150110,COMAS,,,,,,16/06/2021,14:03:25,0,1,"-77,0475159","-11,8988537",Alerta no válida,Municipalidad Distrital de Comas,Local
+714,715,78803,1,AMAZONAS,107,UTCUBAMBA,10704,EL MILAGRO,,,,,,29/10/2021,11:13:00,0,1,"-78,58281167","-5,6461",Alerta no válida,Municipalidad Distrital de El Milagro,Local
+715,716,65315,12,JUNIN,1201,HUANCAYO,120114,EL TAMBO,1,,,,,27/08/2021,09:18:35,0,0,"-75,23061144","-12,04918174",Alerta válida,Municipalidad Distrital de El Tambo,Local
+716,717,53834,15,LIMA,1501,LIMA,150117,LOS OLIVOS,1,,,,,10/07/2021,12:41:16,1,45,"-77,0736361","-11,95434626",Alerta válida,Municipalidad Distrital de Los Olivos,Local
+717,718,79780,15,LIMA,1501,LIMA,150117,LOS OLIVOS,,,,,,04/11/2021,18:09:46,0,15,"-77,0751259","-12,0062567",Alerta válida,Municipalidad Distrital de Los Olivos,Local
+718,719,61496,17,MADRE DE DIOS,1702,MANU,170203,MADRE DE DIOS,1,,,,,14/08/2021,16:54:36,1,40,"-70,38475198","-12,62913155",Alerta válida,Municipalidad Distrital de Madre de Dios,Local
+719,720,50006,10,HUANUCO,1006,LEONCIO PRADO,100606,MARIANO DAMASO BERAUN,,,,,,25/06/2021,16:37:51,0,1,"-75,97070661","-9,44273145",Alerta no válida,Municipalidad Distrital de Mariano Damaso Beraun,Local
+720,721,70753,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,1,,,,,19/09/2021,11:08:29,0,22,"-78,52069374","-9,12761533",Alerta válida,Municipalidad Distrital de Nuevo Chimbote,Local
+721,722,79779,2,ANCASH,218,SANTA,21809,NUEVO CHIMBOTE,,,,,,04/11/2021,16:43:23,0,17,"-78,53826009","-9,12708161",Alerta válida,Municipalidad Distrital de Nuevo Chimbote,Local
+722,723,54117,12,JUNIN,1202,CONCEPCION,120213,ORCOTUNA,1,N,S,S,S,11/07/2021,11:50:52,67,1611,"-75,30092715","-11,9699195",Atención ejecutada por Municipalidad,Municipalidad Distrital de Orcotuna,Local
+723,724,70135,8,CUSCO,801,CUSCO,80104,SAN JERONIMO,1,,,,,17/09/2021,21:42:26,2,59,"-71,902932","-13,5328587",Alerta válida,Municipalidad Distrital de San Jeronimo,Local
+724,725,41650,15,LIMA,1501,LIMA,150123,PACHACAMAC,1,S,S,S,S,27/04/2021,11:19:57,1,24,"-76,86323232","-12,22999316",Atención ejecutada por Municipalidad,Municipalidad Distrital de Pachacamac,Local
+725,726,39415,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,N,,,,21/03/2021,11:39:25,1,27,"-77,04896894","-12,07246306",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+726,727,39713,15,LIMA,1501,LIMA,150113,JESUS MARIA,1,N,S,,,29/03/2021,19:16:28,1,42,"-77,05017085","-12,07796713",Atención ejecutada por Municipalidad,Municipalidad Distrital de Jesus Maria,Local
+727,728,51880,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,,,,,,02/07/2021,06:39:58,0,2,"-71,4786592","-16,4079187",Alerta no válida,Municipalidad Distrital de Paucarpata,Local
+728,729,54774,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,,,,,,15/07/2021,15:18:58,0,0,"-71,5126354","-16,4164268",Alerta no válida,Municipalidad Distrital de Paucarpata,Local
+729,730,51876,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,,,,,02/07/2021,06:35:44,0,2,"-71,478305","-16,40949667",Alerta válida,Municipalidad Distrital de Paucarpata,Local
+730,731,51883,4,AREQUIPA,401,AREQUIPA,40112,PAUCARPATA,1,,,,,02/07/2021,06:43:51,0,2,"-71,4802116","-16,4085856",Alerta válida,Municipalidad Distrital de Paucarpata,Local
+731,732,49957,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,S,S,S,25/06/2021,10:52:48,26,636,"-73,26442037","-3,76576842",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+732,733,60834,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,,,,,10/08/2021,10:42:35,0,0,"-73,27705976","-3,77818925",Alerta válida,Municipalidad Distrital de San Juan Bautista,Local
+733,734,48674,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,19/06/2021,17:16:21,25,605,"-73,27627716","-3,76986451",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+734,735,49964,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,S,N,S,25/06/2021,11:13:21,26,636,"-73,27233201","-3,76068635",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+735,736,49967,16,LORETO,1601,MAYNAS,160113,SAN JUAN BAUTISTA,1,S,N,S,S,25/06/2021,11:21:32,19,467,"-73,27606012","-3,77102323",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan Bautista,Local
+736,737,48066,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,,,,,17/06/2021,11:38:00,0,0,"-77,08791235","-12,02050664",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+737,738,80071,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,,,,,,06/11/2021,17:20:12,1,41,"-77,07801968","-12,01613903",Alerta válida,Municipalidad Distrital de San Martin de Porres,Local
+738,739,52524,15,LIMA,1501,LIMA,150135,SAN MARTIN DE PORRES,1,S,S,N,S,04/07/2021,21:39:13,3,84,"-77,0543021","-12,03369856",Atención programada por Municipalidad,Municipalidad Distrital de San Martin de Porres,Local
+739,740,55397,15,LIMA,1501,LIMA,150131,SAN ISIDRO,1,,,,,18/07/2021,12:12:56,0,20,"-77,01857918","-12,09372074",Alerta válida,Municipalidad Distrital de San Isidro,Local
+740,741,61490,15,LIMA,1507,HUAROCHIRI,150728,SANTA EULALIA,1,,,,,14/08/2021,08:41:03,1,48,"-76,66826976","-11,91823591",Alerta válida,Municipalidad Distrital de Santa Eulalia,Local
+741,742,75234,8,CUSCO,801,CUSCO,80106,SANTIAGO,,,,,,11/10/2021,10:16:43,0,23,"-71,96161652","-13,53813977",Alerta no válida,Municipalidad Distrital de Santiago,Local
+742,743,54440,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,13/07/2021,18:19:42,0,14,"-77,10095","-12,02374833",Alerta válida,Municipalidad Provincial de Callao,Local
+743,744,71393,7,CALLAO,701,CALLAO,70101,CALLAO,1,,,,,21/09/2021,17:40:07,0,0,"-77,1179495","-11,9762847",Alerta válida,Municipalidad Provincial de Callao,Local
+744,745,51579,14,LAMBAYEQUE,1401,CHICLAYO,140101,CHICLAYO,1,N,,,,01/07/2021,17:00:33,0,23,"-79,82782559","-6,76427388",Atención ejecutada por Municipalidad,Municipalidad Provincial de Chiclayo,Local
+745,746,53159,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,06/07/2021,17:00:48,0,1,"-71,94734307","-13,52085311",Alerta válida,Municipalidad Provincial de Cusco,Local
+746,747,53474,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,07/07/2021,12:36:05,0,1,"-71,95969534","-13,51821724",Alerta válida,Municipalidad Provincial de Cusco,Local
+747,748,56353,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,23/07/2021,09:04:35,0,0,"-71,95975331","-13,51790855",Alerta válida,Municipalidad Provincial de Cusco,Local
+748,749,58929,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,02/08/2021,09:19:51,0,0,"-71,96067942","-13,5204895",Alerta válida,Municipalidad Provincial de Cusco,Local
+749,750,65953,8,CUSCO,801,CUSCO,80101,CUSCO,1,,,,,01/09/2021,11:31:05,0,3,"-71,96041695","-13,52057677",Alerta válida,Municipalidad Provincial de Cusco,Local
+750,751,49987,16,LORETO,1607,DATEM DEL MARAÑON,160701,BARRANCA,,,,,,25/06/2021,15:45:46,0,2,"-76,55580468","-4,83007884",Alerta no válida,Municipalidad Provincial de Datem del Marañon,Local
+751,752,47076,4,AREQUIPA,401,AREQUIPA,40128,YURA,1,,,,,11/06/2021,13:58:51,0,0,"-71,62568215","-16,29871118",Alerta válida,Municipalidad Distrital de Yura,Local
+752,753,49334,10,HUANUCO,1002,AMBO,100201,AMBO,,,,,,22/06/2021,08:36:56,0,0,"-76,20250632","-10,13084994",Alerta no válida,Municipalidad Provincial de Ambo,Local
+753,754,49336,10,HUANUCO,1002,AMBO,100201,AMBO,1,S,N,S,S,22/06/2021,08:47:32,3,73,"-76,20530795","-10,12480588",Atención ejecutada por Municipalidad,Municipalidad Provincial de Ambo,Local
+754,755,73639,20,PIURA,2002,AYABACA,200201,AYABACA,,,,,,29/09/2021,18:11:22,0,17,"-79,71343614","-4,63602584",Alerta no válida,Municipalidad Provincial de Ayabaca,Local
+755,756,54113,6,CAJAMARCA,601,CAJAMARCA,60101,CAJAMARCA,1,S,N,S,S,11/07/2021,08:24:03,57,1374,"-78,52408126","-7,14374098",Atención ejecutada por Municipalidad,Municipalidad Provincial de Cajamarca,Local
+756,757,47393,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,,N,,,,13/06/2021,14:26:58,18,453,"-77,01254667","-12,02294",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+757,758,58917,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,S,S,,01/08/2021,15:57:40,16,384,"-76,99680333","-12,00818167",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+758,759,64994,15,LIMA,1501,LIMA,150132,SAN JUAN DE LURIGANCHO,1,S,S,S,,26/08/2021,10:20:51,5,141,"-76,98725291","-11,93248036",Atención ejecutada por Municipalidad,Municipalidad Distrital de San Juan de Lurigancho,Local
+759,760,52838,15,LIMA,1501,LIMA,150103,ATE,1,,,,,05/07/2021,20:36:29,0,12,"-76,89816602","-12,01633108",Alerta válida,Municipalidad Distrital de Ate,Local
+760,761,53808,15,LIMA,1501,LIMA,150103,ATE,1,,,,,09/07/2021,13:29:33,0,2,"-76,978975","-12,07298667",Alerta válida,Municipalidad Distrital de Ate,Local
+761,762,53804,15,LIMA,1501,LIMA,150142,VILLA EL SALVADOR,1,,,,,09/07/2021,11:15:56,0,1,"-76,937794","-12,1938918",Alerta válida,Municipalidad Distrital de Villa El Salvador,Local
+762,763,64674,15,LIMA,1501,LIMA,150143,VILLA MARIA DEL TRIUNFO,1,S,S,S,,25/08/2021,14:36:07,7,188,"-76,9436701","-12,1431364",Atención ejecutada por Municipalidad,Municipalidad Distrital de Villa Maria del Triunfo,Local
+763,764,67558,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,,08/09/2021,12:01:11,12,291,"-78,52328705","-6,6818291",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+764,765,67566,6,CAJAMARCA,607,HUALGAYOC,60701,BAMBAMARCA,1,S,S,S,S,08/09/2021,13:18:47,6,166,"-78,52108028","-6,68229441",Atención ejecutada por Municipalidad,Municipalidad Provincial de Hualgayoc,Local
+765,766,55401,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,1,N,,,,18/07/2021,17:22:40,49,1198,"-74,976405","-12,78753667",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huancavelica,Local
+766,767,56691,9,HUANCAVELICA,901,HUANCAVELICA,90101,HUANCAVELICA,1,N,,,,25/07/2021,08:51:54,43,1039,"-74,9791761","-12,7875326",Atención ejecutada por Municipalidad,Municipalidad Provincial de Huancavelica,Local
+767,768,78804,21,PUNO,2111,SAN ROMAN,211101,JULIACA,,,,,,29/10/2021,12:28:49,0,0,"-70,11360089","-15,47847109",Alerta pendiente validación,Municipalidad Provincial de San Roman,Local
+768,769,71078,21,PUNO,2111,SAN ROMAN,211101,JULIACA,1,S,N,S,S,20/09/2021,16:20:21,44,1074,"-70,16505438","-15,48485398",Atención ejecutada por Municipalidad,Municipalidad Provincial de San Roman,Local
+769,770,75238,21,PUNO,2111,SAN ROMAN,211101,JULIACA,1,N,N,S,S,11/10/2021,17:34:23,9,233,"-70,14948005","-15,48751998",Atención ejecutada por Municipalidad,Municipalidad Provincial de San Roman,Local
+770,771,59557,23,TACNA,2301,TACNA,230101,TACNA,1,N,N,S,S,05/08/2021,15:58:55,90,2182,"-70,23591418","-17,9925896",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tacna,Local
+771,772,49971,9,HUANCAVELICA,907,TAYACAJA,90701,PAMPAS,,,,,,25/06/2021,12:14:38,0,0,"-74,8682175","-12,3991999",Alerta no válida,Municipalidad Provincial de Tayacaja,Local
+772,773,68198,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,10/09/2021,10:14:01,0,2,"-79,0405197","-8,1105247",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+773,774,69157,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,,,,,,13/09/2021,11:01:17,0,1,"-79,01699907","-8,10385516",Alerta no válida,Municipalidad Provincial de Trujillo,Local
+774,775,54439,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,13/07/2021,16:21:21,0,16,"-79,0480855","-8,0958893",Alerta válida,Municipalidad Provincial de Trujillo,Local
+775,776,55078,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,16/07/2021,13:25:42,0,2,"-79,02477814","-8,09311904",Alerta válida,Municipalidad Provincial de Trujillo,Local
+776,777,56994,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,26/07/2021,10:55:57,0,0,"-79,02334033","-8,12772635",Alerta válida,Municipalidad Provincial de Trujillo,Local
+777,778,68197,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,10/09/2021,10:10:59,0,2,"-79,0406024","-8,1104713",Alerta válida,Municipalidad Provincial de Trujillo,Local
+778,779,70133,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,17/09/2021,19:43:00,2,61,"-79,01905239","-8,11192811",Alerta válida,Municipalidad Provincial de Trujillo,Local
+779,780,73633,13,LA LIBERTAD,1301,TRUJILLO,130101,TRUJILLO,1,,,,,29/09/2021,08:53:39,0,1,"-79,0175996","-8,1157836",Alerta válida,Municipalidad Provincial de Trujillo,Local
+780,781,54133,13,LA LIBERTAD,1312,VIRU,131201,VIRU,1,,,,,12/07/2021,18:07:06,0,1,"-78,78411833","-8,42296833",Alerta válida,Municipalidad Provincial de Viru,Local
+781,782,41653,15,LIMA,1501,LIMA,150105,BREÑA,1,N,,,,27/04/2021,12:24:05,14,337,"-77,0517822","-12,0612053",Atención ejecutada por Municipalidad,Municipalidad Distrital de Breña,Local
+782,783,43558,15,LIMA,1501,LIMA,150105,BREÑA,1,N,N,S,S,07/05/2021,11:43:31,9,237,"-77,0549586","-12,0588419",Atención ejecutada por Municipalidad,Municipalidad Distrital de Breña,Local
+783,784,50918,15,LIMA,1501,LIMA,150105,BREÑA,,N,,,,28/06/2021,20:16:43,106,2557,"-77,05091386","-12,06484721",Atención ejecutada por Municipalidad,Municipalidad Distrital de Breña,Local
+784,785,41323,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,19/04/2021,14:31:14,1,45,"-76,974059","-12,12727498",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+785,786,45800,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,06/06/2021,15:42:09,0,17,"-77,01198312","-12,1431226",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+786,787,46765,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,10/06/2021,14:44:23,0,1,"-77,0118128","-12,1427692",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+787,788,77489,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,,,,,,20/10/2021,15:26:03,0,0,"-76,9960371","-12,130501",Alerta no válida,Municipalidad Distrital de Santiago de Surco,Local
+788,789,57319,15,LIMA,1501,LIMA,150140,SANTIAGO DE SURCO,1,S,N,S,S,27/07/2021,23:52:59,3,86,"-77,01152153","-12,14299944",Atención ejecutada por Municipalidad,Municipalidad Distrital de Santiago de Surco,Local
+789,790,45174,13,LA LIBERTAD,1308,PATAZ,130801,TAYABAMBA,,,,,,28/05/2021,12:33:35,0,4,"-77,29695509","-8,27618076",Alerta no válida,Municipalidad Provincial de Pataz,Local
+790,791,51580,12,JUNIN,1203,CHANCHAMAYO,120302,PERENE,1,N,,,,01/07/2021,21:21:42,103,2483,"-74,8804627","-10,92177406",Atención ejecutada por Municipalidad,Municipalidad Distrital de Perene,Local
+791,792,53476,4,AREQUIPA,401,AREQUIPA,40101,AREQUIPA,1,S,S,S,,07/07/2021,17:23:10,0,20,"-71,53397583","-16,39097606",Atención ejecutada por Municipalidad,Municipalidad Provincial de Arequipa,Local
+792,793,49633,10,HUANUCO,1010,LAURICOCHA,101001,JESUS,,N,N,N,S,24/06/2021,10:07:13,104,2519,"-76,63106209","-10,06751073",Atención ejecutada por Municipalidad,Municipalidad Provincial de Lauricocha,Local
+793,794,48993,15,LIMA,1501,LIMA,150101,LIMA,1,,,,,20/06/2021,08:49:03,0,24,"-77,07922678","-12,0594488",Alerta válida,Municipalidad Provincial de Lima,Local
+794,795,50001,22,SAN MARTIN,2208,RIOJA,220801,RIOJA,,,,,,25/06/2021,16:04:27,0,2,"-77,168042","-6,06085386",Alerta no válida,Municipalidad Provincial de Rioja,Local
+795,796,49640,15,LIMA,1501,LIMA,150108,CHORRILLOS,,,,,,24/06/2021,12:50:14,0,1,"-77,00667645","-12,17632857",Alerta no válida,Municipalidad Distrital de Chorrillos,Local
+796,797,57315,15,LIMA,1501,LIMA,150108,CHORRILLOS,,,,,,27/07/2021,14:49:38,0,0,"-76,99109","-12,205555",Alerta no válida,Municipalidad Distrital de Chorrillos,Local
+797,798,45473,23,TACNA,2301,TACNA,230108,POCOLLAY,,,,,,28/05/2021,11:44:30,0,5,"-70,23048568","-17,99787487",Alerta no válida,Municipalidad Distrital de Pocollay,Local
+798,799,69162,19,PASCO,1901,PASCO,190101,CHAUPIMARCA,1,S,S,N,N,13/09/2021,15:48:12,7,186,"-76,25253041","-10,68848908",Atención programada por Municipalidad,Municipalidad Provincial de Pasco,Local
+799,800,79781,18,MOQUEGUA,1801,MARISCAL NIETO,180101,MOQUEGUA,,,,,,04/11/2021,18:13:42,0,15,"-70,94298966","-17,20760482",Alerta no válida,Municipalidad Provincial de Mariscal Nieto,Local
+800,801,74291,15,LIMA,1505,CAÑETE,150501,SAN VICENTE DE CAÑETE,1,N,,,,05/10/2021,18:35:02,14,351,"-76,3877503","-13,0755009",Atención ejecutada por Municipalidad,Municipalidad Provincial de Cañete,Local
+801,802,56996,12,JUNIN,1207,TARMA,120701,TARMA,,S,S,S,,26/07/2021,22:41:22,10,260,"-75,68890088","-11,42185689",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tarma,Local
+802,803,59558,12,JUNIN,1207,TARMA,120701,TARMA,1,S,S,S,S,05/08/2021,22:26:03,0,20,"-75,68742404","-11,4178288",Atención ejecutada por Municipalidad,Municipalidad Provincial de Tarma,Local
+803,804,52527,2,ANCASH,218,SANTA,21801,CHIMBOTE,1,,,,,04/07/2021,21:56:24,0,11,"-78,59111519","-9,07372243",Alerta válida,Municipalidad Provincial de Santa,Local
+804,805,74273,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,04/10/2021,15:52:33,0,2,"-76,15732394","-13,41057451",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+805,806,76515,11,ICA,1102,CHINCHA,110206,GROCIO PRADO,1,,,,,15/10/2021,10:57:42,0,1,"-76,156943","-13,41023525",Alerta válida,Municipalidad Distrital de Grocio Prado,Local
+806,807,49953,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,25/06/2021,10:40:36,46,1105,"-73,2725959","-3,7765663",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+807,808,49955,16,LORETO,1601,MAYNAS,160112,BELEN,1,S,S,N,S,25/06/2021,10:45:34,46,1105,"-73,2648156","-3,77205282",Atención programada por Municipalidad,Municipalidad Distrital de Belen,Local
+808,809,59569,8,CUSCO,801,CUSCO,80105,SAN SEBASTIAN,,,,,,06/08/2021,11:08:55,0,4,"-71,93563601","-13,48863865",Alerta no válida,Municipalidad Distrital de San Sebastian,Local
+809,810,53160,8,CUSCO,801,CUSCO,80105,SAN SEBASTIAN,1,,,,,06/07/2021,19:51:21,0,13,"-71,93371358","-13,52990505",Alerta válida,Municipalidad Distrital de San Sebastian,Local
